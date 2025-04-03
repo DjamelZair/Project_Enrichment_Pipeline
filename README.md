@@ -117,12 +117,11 @@ If you encounter issues during installation or running the pipeline, try the fol
 Include a license if you want to restrict or open-source your work.
 
 ```bash
-MIT License (or whichever license you prefer)
+Licensed by KR&A
 ```
 
 ---
 
 ## Additional Notes
 
-Make sure you provide your stakeholders with access to the repository if it is private. Remind them to create their own `.env` file with their API keys.
-```markdown
+Make sure to create a `.env` file with the needed API keys.
