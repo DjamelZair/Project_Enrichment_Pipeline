@@ -1,0 +1,38 @@
+{
+    "reverse_geocoding": {
+        "time": 593.0061748027802,
+        "polygons": 49,
+        "addresses": 85
+    },
+    "web_search": {
+        "time": 693.7859206199646
+    },
+    "re_ranking": {
+        "time": 303.8241446018219
+    },
+    "attribute_enrichment": {
+        "time": 217.7730836868286,
+        "polygons": 49,
+        "addresses": 85
+    },
+    "zimmo_enrichment": {
+        "time": 88.25177454948425,
+        "polygons": 49,
+        "addresses": 85
+    },
+    "filtering": {
+        "time": 0.008857011795043945,
+        "summary": {
+            "total_polygons": 49,
+            "polygons_with_valid_addresses": 41,
+            "polygons_removed_due_to_no_project_type": 8,
+            "total_failed_addresses": 31,
+            "average_failed_vertices_percentage": 50.17
+        }
+    },
+    "amenities_enrichment": {
+        "time": 65.79690933227539,
+        "polygons": 41,
+        "addresses": 54
+    }
+}

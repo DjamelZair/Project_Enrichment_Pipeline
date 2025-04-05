@@ -1,0 +1,2426 @@
+[
+    {
+        "address": "Kerkstraat 89, 8000 Brugge",
+        "description": "Authentieke stadswoning met veel lichtinval en een compacte stadstuin. Biedt een unieke kans voor renovatie.",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Residentie Beau Noir, Waregem",
+        "description": "Residentie Beau Noir, een kleinschalig nieuwbouwproject op een boogscheut van centrum Waregem. Deze residentie omvat 6 appartementen en 2 handelsruimtes en is gelegen op een toplocatie in Waregem, aan de rand van het centrum, nabij de sportoefenvelden, station, Expo, de Markt, de ring en E17.\n\nElke entiteit is voorzien van een leefruimte met ingerichte keuken, badkamer met bad en/of douche, 2 slaapkamers, een berging en minstens één ruim terras, waar genieten centraal staat. Alle appartementen worden afgewerkt met hoogwaardige, kwalitatieve materialen. Alles wordt afgewerkt volgens het vooropgestelde lastenboek, maar kan ook worden afgestemd volgens de wensen van de klant. De oppervlaktes variëren tussen de 87m² en 119m².\n\nDe twee handelsruimtes worden casco opgeleverd.\n\nVoor iedere entiteit is er een autostaanplaats en/of garage voorzien, alsook is er een private berging per appartement, deze bevinden zich allen op het gelijkvloers.\n\nOplevering van dit project is voorzien in het najaar van 2024.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": [87, 119]
+        }
+    },
+    {
+        "address": "Lindestraat 12, 9000 Gent",
+        "description": "Moderne penthouse met panoramisch uitzicht over Gent. Inclusief een groot dakterras, luxe afwerking en een privélift.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Dorpsstraat 45, 3000 Leuven",
+        "description": "Charmante villa met ruime tuin en garage. Perfect voor gezinnen, met 4 slaapkamers, moderne keuken en luxe badkamer.",
+        "attributes": {
+            "project_type": "villa",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Stationslaan 7, 3500 Hasselt",
+        "description": "Nieuwbouw appartementencomplex nabij het treinstation. Bestaat uit 10 appartementen met moderne voorzieningen en gemeenschappelijke tuin.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Molenweg 23, 1800 Vilvoorde",
+        "description": "Ruime gezinswoning met grote tuin en dubbele garage. Voorzien van een moderne keuken, drie slaapkamers en twee badkamers.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Nieuwstraat 5, 2000 Antwerpen",
+        "description": "Luxe loft in het centrum van Antwerpen. Open indeling, hoge plafonds, moderne keuken en exclusieve afwerking.",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Parklaan 10, 3000 Leuven",
+        "description": "Gezellige studio met open keuken en balkon. Ideaal voor starters of als investering.",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Bergstraat 34, 4000 Liège",
+        "description": "Traditionele herenhuis met moderne renovatie. Inclusief drie slaapkamers, twee badkamers en een grote kelder.",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Zuidlaan 56, 5000 Breda",
+        "description": "Penthouse met panoramisch uitzicht, ruime terrassen en exclusieve afwerking. Inclusief privéparkeerplaats.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Hoofdstraat 78, 6000 Charleroi",
+        "description": "Nieuwbouw flat met 5 appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling.",
+        "attributes": {
+            "project_type": "flat",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Kleine Markt 15, 1000 Brussel",
+        "description": "Luxe appartement in historisch pand. Bestaat uit 2 slaapkamers, moderne keuken en balkon met uitzicht.",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Veldstraat 22, 9000 Gent",
+        "description": "Compacte studio ideaal gelegen nabij het centrum van Gent. Voorzien van kitchenette en moderne badkamer.",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": 1,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Laan van Meerdervoort 100, 2517 AZ Den Haag",
+        "description": "Elegante penthouse met ruime woonruimte, open keuken en groot terras. Inclusief parkeerplaats en berging.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Grote Markt 1, 5000 Breda",
+        "description": "Historisch pand omgebouwd tot moderne appartementen. Inclusief gemeenschappelijke tuin en fietsenstalling.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Markt 10, 3000 Leuven",
+        "description": "Moderne gezinswoning met open indeling, grote tuin en garage. Voorzien van vier slaapkamers en twee badkamers.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Kerkstraat 55, 8000 Brugge",
+        "description": "Charmante loft in historisch pand. Open ruimte met hoge plafonds, moderne keuken en badkamer.",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Stationsplein 20, 9000 Gent",
+        "description": "Luxe appartement met twee slaapkamers, moderne keuken en ruime woonkamer. Inclusief parkeerplaats.",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Dorpsplein 8, 4000 Liège",
+        "description": "Rifling villa met grote tuin, zwembad en garage. Voorzien van vijf slaapkamers en vier badkamers.",
+        "attributes": {
+            "project_type": "villa",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Lange Kerkstraat 3, 2000 Antwerpen",
+        "description": "Elegante herenwoning met moderne voorzieningen. Inclusief drie slaapkamers, twee badkamers en een garage.",
+        "attributes": {
+            "project_type": "herenwoning",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Bellevueweg 12, 8500 Kortrijk",
+        "description": "Modern appartementencomplex met 8 appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Vijverstraat 27, 1000 Brussel",
+        "description": "Luxe penthouse met panoramisch uitzicht, ruime terrassen en hoogwaardige afwerking. Inclusief parkeerplaats.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Lichtstraat 14, 5000 Breda",
+        "description": "Gezellige gezinswoning met open keuken, vier slaapkamers en een grote tuin. Inclusief garage.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Hoogstraat 9, 6000 Charleroi",
+        "description": "Moderne studio met kitchenette en balkon. Perfect voor starters of als investering.",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": 1,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Oude Haven 5, 8000 Brugge",
+        "description": "Historisch pand omgebouwd tot luxe lofts. Inclusief hoge plafonds, moderne keuken en ruime badkamers.",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Kerkstraat 21, 3000 Leuven",
+        "description": "Elegante appartement met drie slaapkamers, moderne keuken en balkon. Inclusief parkeerplaats.",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Parklaan 45, 9000 Gent",
+        "description": "Ruime gezinswoning met moderne voorzieningen, vijf slaapkamers, drie badkamers en een grote tuin.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Zeedijk 8, 1000 Brussel",
+        "description": "Luxe penthouse met privélift, panoramisch uitzicht en ruime terrassen. Inclusief parkeerplaats en berging.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Lange Laan 30, 2000 Antwerpen",
+        "description": "Modern herenhuis met vier slaapkamers, twee badkamers, garage en grote tuin. Perfect voor gezinnen.",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Vijverweg 10, 8500 Kortrijk",
+        "description": "Nieuwbouw appartementencomplex met 12 moderne appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Kerkstraat 89, 8000 Brugge",
+        "description": "Authentieke stadswoning met veel lichtinval en een compacte stadstuin. Biedt een unieke kans voor renovatie. De oppervlaktes variëren tussen de 90m² en 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["90m²", "150m²"]
+        }
+    },
+    {
+        "address": "Residentie Beau Noir, Waregem",
+        "description": "Residentie Beau Noir, een kleinschalig nieuwbouwproject op een boogscheut van centrum Waregem. Deze residentie omvat 6 appartementen en 2 handelsruimtes en is gelegen op een toplocatie in Waregem, aan de rand van het centrum, nabij de sportoefenvelden, station, Expo, de Markt, de ring en E17.\n\nElke entiteit is voorzien van een leefruimte met ingerichte keuken, badkamer met bad en/of douche, 2 slaapkamers, een berging en minstens één ruim terras, waar genieten centraal staat. Alle appartementen worden afgewerkt met hoogwaardige, kwalitatieve materialen. Alles wordt afgewerkt volgens het vooropgestelde lastenboek, maar kan ook worden afgestemd volgens de wensen van de klant. De oppervlaktes variëren tussen de 87m² en 119m².\n\nDe twee handelsruimtes worden casco opgeleverd.\n\nVoor iedere entiteit is er een autostaanplaats en/of garage voorzien, alsook is er een private berging per appartement, deze bevinden zich allen op het gelijkvloers.\n\nOplevering van dit project is voorzien in het najaar van 2024.",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["87m²", "119m²"]
+        }
+    },
+    {
+        "address": "Lindestraat 12, 9000 Gent",
+        "description": "Moderne penthouse met panoramisch uitzicht over Gent. Inclusief een groot dakterras, luxe afwerking en een privélift. De beschikbare oppervlaktes variëren van 100m² tot 180m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["100m²", "180m²"]
+        }
+    },
+    {
+        "address": "Dorpsstraat 45, 3000 Leuven",
+        "description": "Charmante villa met ruime tuin en garage. Perfect voor gezinnen, met 4 slaapkamers, moderne keuken en luxe badkamer. Oppervlakten tussen 200m² en 300m².",
+        "attributes": {
+            "project_type": "villa",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["200m²", "300m²"]
+        }
+    },
+    {
+        "address": "Stationslaan 7, 3500 Hasselt",
+        "description": "Nieuwbouw appartementencomplex nabij het treinstation. Bestaat uit 10 appartementen met moderne voorzieningen en gemeenschappelijke tuin. De appartementen variëren in grootte van 75m² tot 130m².",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["75m²", "130m²"]
+        }
+    },
+    {
+        "address": "Molenweg 23, 1800 Vilvoorde",
+        "description": "Ruime gezinswoning met grote tuin en dubbele garage. Voorzien van een moderne keuken, drie slaapkamers en twee badkamers. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Nieuwstraat 5, 2000 Antwerpen",
+        "description": "Luxe loft in het centrum van Antwerpen. Open indeling, hoge plafonds, moderne keuken en exclusieve afwerking. De oppervlaktes variëren van 120m² tot 200m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["120m²", "200m²"]
+        }
+    },
+    {
+        "address": "Parklaan 10, 3000 Leuven",
+        "description": "Gezellige studio met open keuken en balkon. Ideaal voor starters of als investering. Oppervlakte van 45m².",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["45m²"]
+        }
+    },
+    {
+        "address": "Bergstraat 34, 4000 Liège",
+        "description": "Traditionele herenhuis met moderne renovatie. Inclusief drie slaapkamers, twee badkamers en een grote kelder. Oppervlakten variëren tussen de 150m² en 250m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["150m²", "250m²"]
+        }
+    },
+    {
+        "address": "Zuidlaan 56, 5000 Breda",
+        "description": "Penthouse met panoramisch uitzicht, ruime terrassen en exclusieve afwerking. Inclusief privéparkeerplaats. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Hoofdstraat 78, 6000 Charleroi",
+        "description": "Nieuwbouw flat met 5 appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling. De appartementen variëren in grootte van 80m² tot 140m².",
+        "attributes": {
+            "project_type": "flat",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["80m²", "140m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 15, 1000 Brussel",
+        "description": "Luxe appartement in historisch pand. Bestaat uit 2 slaapkamers, moderne keuken en balkon met uitzicht. Oppervlakte van 95m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["95m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 22, 9000 Gent",
+        "description": "Compacte studio ideaal gelegen nabij het centrum van Gent. Voorzien van kitchenette en moderne badkamer. Oppervlakte van 50m².",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": 1,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["50m²"]
+        }
+    },
+    {
+        "address": "Laan van Meerdervoort 100, 2517 AZ Den Haag",
+        "description": "Elegante penthouse met ruime woonruimte, open keuken en groot terras. Inclusief parkeerplaats en berging. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Grote Markt 1, 5000 Breda",
+        "description": "Historisch pand omgebouwd tot moderne appartementen. Inclusief gemeenschappelijke tuin en fietsenstalling. De appartementen variëren in grootte van 85m² tot 160m².",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["85m²", "160m²"]
+        }
+    },
+    {
+        "address": "Markt 10, 3000 Leuven",
+        "description": "Moderne gezinswoning met open indeling, grote tuin en garage. Voorzien van vier slaapkamers en twee badkamers. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 55, 8000 Brugge",
+        "description": "Charmante loft in historisch pand. Open ruimte met hoge plafonds, moderne keuken en badkamer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Stationsplein 20, 9000 Gent",
+        "description": "Luxe appartement met twee slaapkamers, moderne keuken en ruime woonkamer. Inclusief parkeerplaats. Oppervlakte van 120m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["120m²"]
+        }
+    },
+    {
+        "address": "Dorpsplein 8, 4000 Liège",
+        "description": "Rifling villa met grote tuin, zwembad en garage. Voorzien van vijf slaapkamers en vier badkamers. Oppervlakten tussen de 300m² en 450m².",
+        "attributes": {
+            "project_type": "villa",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["300m²", "450m²"]
+        }
+    },
+    {
+        "address": "Lange Kerkstraat 3, 2000 Antwerpen",
+        "description": "Elegante herenwoning met moderne voorzieningen. Inclusief drie slaapkamers, twee badkamers en een garage. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "herenwoning",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Bellevueweg 12, 8500 Kortrijk",
+        "description": "Modern appartementencomplex met 8 appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling. De appartementen variëren in grootte van 80m² tot 150m².",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["80m²", "150m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 27, 1000 Brussel",
+        "description": "Luxe penthouse met panoramisch uitzicht, ruime terrassen en hoogwaardige afwerking. Inclusief parkeerplaats. Oppervlakte van 200m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["200m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 14, 5000 Breda",
+        "description": "Gezellige gezinswoning met open keuken, vier slaapkamers en een grote tuin. Inclusief garage. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Hoogstraat 9, 6000 Charleroi",
+        "description": "Moderne studio met kitchenette en balkon. Perfect voor starters of als investering. Oppervlakte van 50m².",
+        "attributes": {
+            "project_type": "studio",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": 1,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["50m²"]
+        }
+    },
+    {
+        "address": "Oude Haven 5, 8000 Brugge",
+        "description": "Historisch pand omgebouwd tot luxe lofts. Inclusief hoge plafonds, moderne keuken en ruime badkamers. Oppervlakte van 200m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["200m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 21, 3000 Leuven",
+        "description": "Elegante appartement met drie slaapkamers, moderne keuken en balkon. Inclusief parkeerplaats. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Parklaan 45, 9000 Gent",
+        "description": "Ruime gezinswoning met moderne voorzieningen, vijf slaapkamers, drie badkamers en een grote tuin. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Zeedijk 8, 1000 Brussel",
+        "description": "Luxe penthouse met privélift, panoramisch uitzicht en ruime terrassen. Inclusief parkeerplaats en berging. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Lange Laan 30, 2000 Antwerpen",
+        "description": "Modern herenhuis met vier slaapkamers, twee badkamers, garage en grote tuin. Perfect voor gezinnen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 10, 8500 Kortrijk",
+        "description": "Nieuwbouw appartementencomplex met 12 moderne appartementen, voorzien van gemeenschappelijke tuin en fietsenstalling. De appartementen variëren in grootte van 85m² tot 160m².",
+        "attributes": {
+            "project_type": "appartementen",
+            "number_of_bedrooms": "not specified",
+            "number_of_bathrooms": "not specified",
+            "price_from": "not specified",
+            "parking": "not specified",
+            "available_sizes": ["85m²", "160m²"]
+        }
+    },
+    {
+        "address": "Emmabronstraat 24, 1000 Brussel",
+        "description": "Luxe gezinswoning gelegen in een rustige wijk van Brussel. Deze woning beschikt over vijf slaapkamers, drie badkamers, een moderne open keuken met hoogwaardige apparatuur, een ruime woonkamer met open haard, een grote tuin met terras, en een garage voor twee auto's. Het pand is energiezuinig en voorzien van zonnepanelen. Nabij scholen, parken en openbaar vervoer.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Mauriksstraat 10, 2000 Antwerpen",
+        "description": "Modern appartement in het hart van Antwerpen, gelegen in een gerenoveerd historisch gebouw. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen die veel natuurlijk licht binnenlaten, een open keuken met kookeiland, een balkon met uitzicht over de stad, en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming.",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 350000,
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Groeneveldlaan 55, 9000 Gent",
+        "description": "Ruime penthouse met panoramisch uitzicht over Gent. Dit exclusieve pand beschikt over vier slaapkamers, drie badkamers, een grote open woonkamer met dubbele hoge plafonds, een volledig uitgeruste moderne keuken, meerdere terrassen, een privélift, en een garage. Voorzien van luxe afwerkingen, smart home technologie en energiezuinige installaties.",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 750000,
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Kastelenlaan 8, 3000 Leuven",
+        "description": "Elegante herenwoning in een prestigieuze buurt van Leuven. Deze woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met een vijver, en een garage met ruimte voor vier auto's. Het pand is recent gerenoveerd en combineert klassieke architectuur met moderne voorzieningen.",
+        "attributes": {
+            "project_type": "herenwoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 950000,
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Zeedijk 102, 1000 Brussel",
+        "description": "Stijlvolle loft in een industrieel pand in Brussel. De loft beschikt over een open indeling met hoge plafonds, drie slaapkamers, twee badkamers, een moderne keuken met eiland, een grote woonkamer met terras, en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning, vloerverwarming en smart home systemen. Gelegen nabij trendy cafés, winkels en openbaar vervoer.",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 500000,
+            "parking": "not specified",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Parklaan 34, 8500 Kortrijk",
+        "description": "Nieuwbouw gezinswoning met duurzame bouwmaterialen en energie-efficiënte installaties. De woning omvat vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een moderne keuken met gastenkamer, een serre, een grote tuin met speelruimte voor kinderen, en een garage voor twee auto's. Gelegen in een kindvriendelijke buurt nabij scholen en parken.",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 400000,
+            "parking": "yes",
+            "available_sizes": "not specified"
+        }
+    },
+    {
+        "address": "Lindelaan 78, 1800 Vilvoorde",
+        "description": "Charmante stadswoning met een mix van klassieke en moderne elementen. Deze woning biedt drie slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een kelder en een garage. De woning is recent gerenoveerd en gelegen in een groene omgeving dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 5, 3500 Hasselt",
+        "description": "Modern appartement in een hoogbouwcomplex nabij het treinstation van Hasselt. Het appartement beschikt over twee slaapkamers, een badkamer, een ruime woonkamer met balkon, een open keuken met moderne apparatuur, en toegang tot een gemeenschappelijke fitnessruimte. Het gebouw biedt ook ondergrondse parkeergelegenheid en een dakterras voor bewoners. Oppervlakte van 100m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 1,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["100m²"]
+        }
+    },
+    {
+        "address": "Dorpsstraat 23, 4000 Liège",
+        "description": "Spacieuze gezinswoning gelegen in een groene omgeving van Luik. De woning omvat vier slaapkamers, drie badkamers, een moderne keuken, een grote woonkamer met open haard, een eetkamer, een terras met overkapping, een garage voor twee auto's en een ruime tuin. Voorzien van energiezuinige installaties en hoogwaardige afwerkingen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": "not specified",
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 14, 9000 Gent",
+        "description": "Luxueus appartement in een prestigieus appartementencomplex in Gent. Dit appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met panoramisch uitzicht, een moderne keuken met ingebouwde apparatuur, een balkon, en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een gemeenschappelijke lounge. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 550000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras, en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 300000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 300000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Veldstraat 45, 9000 Gent",
+        "description": "Prachtig herenhuis aan de Veldstraat in Gent. De woning biedt zes slaapkamers, vier badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1300000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Oude Markt 12, 3000 Leuven",
+        "description": "Historische penthousewoning in het centrum van Leuven. Deze exclusieve woning beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met open haard, een moderne keuken, meerdere terrassen met uitzicht op de stad, een eigen garage en een privé lift. Gelegen nabij winkels, restaurants en culturele voorzieningen. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 800000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Buitenhofstraat 19, 2000 Antwerpen",
+        "description": "Ruime loft in een gerenoveerd industrieel pand in Antwerpen. De loft omvat drie slaapkamers, twee badkamers, een grote open woonkamer met hoge plafonds, een moderne keuken met kookeiland, een dakterras en een eigen berging. Voorzien van moderne voorzieningen zoals airconditioning en vloerverwarming. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 600000,
+            "parking": "not specified",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lange Markt 5, 5000 Breda",
+        "description": "Elegant herenhuis in het historische centrum van Breda. De woning beschikt over vijf slaapkamers, drie badkamers, een ruime eetkamer, een moderne keuken, een bibliotheek, een kantoorruimte, een serre, een grote tuin en een garage voor drie auto's. Het pand combineert klassieke architectuur met moderne gemakken. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 3,
+            "price_from": 700000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Molenstraat 8, 8000 Brugge",
+        "description": "Sfeervolle stadswoning met een moderne twist in Brugge. Deze woning biedt vier slaapkamers, twee badkamers, een ruime woonkamer met open haard, een volledig uitgeruste keuken, een balkon, een berging en een garage. Gelegen in een rustige straat, dicht bij winkels, scholen en openbaar vervoer. Oppervlakte van 150m².",
+        "attributes": {
+            "project_type": "stadswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 2,
+            "price_from": 360000,
+            "parking": "yes",
+            "available_sizes": ["150m²"]
+        }
+    },
+    {
+        "address": "Kleine straat 7, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Rivieraweg 45, 8500 Kortrijk",
+        "description": "Prachtige gezinswoning aan de Rivieraweg met een ruime tuin en zwembad. De woning omvat zes slaapkamers, vier badkamers, een open woonkamer met terras, een moderne keuken met eetgedeelte, een thuisbioscoop, een fitnessruimte, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Stationstraat 22, 9000 Gent",
+        "description": "Exclusief appartement in een torengebouw in Gent. Dit appartement beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht over de stad, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Daarnaast hebben bewoners toegang tot een zwembad, fitnessruimte en een dakterras voor bewoners. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 600000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Grote Houtstraat 33, 2517 AZ Den Haag",
+        "description": "Luxe penthouse in een prestigieus gebouw in Den Haag. De penthouse beschikt over vijf slaapkamers, vier badkamers, een grote open woonkamer met panoramisch uitzicht, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van high-end afwerkingen en slimme technologieën. Oppervlakte van 300m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["300m²"]
+        }
+    },
+    {
+        "address": "Meanderlaan 16, 2000 Antwerpen",
+        "description": "Ruime gezinswoning gelegen aan de Meanderlaan in Antwerpen. De woning biedt vijf slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een groene en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 220m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 5,
+            "number_of_bathrooms": 4,
+            "price_from": 500000,
+            "parking": "yes",
+            "available_sizes": ["220m²"]
+        }
+    },
+    {
+        "address": "Vijverstraat 50, 1000 Brussel",
+        "description": "Elegante loft in een gerenoveerd historisch gebouw in Brussel. De loft beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met hoge plafonds, een moderne keuken, een balkon en een eigen berging. Voorzien van moderne gemakken zoals airconditioning en vloerverwarming. Gelegen nabij culturele voorzieningen en openbaar vervoer. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "loft",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 580000,
+            "parking": "not specified",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Berglaan 9, 4000 Liège",
+        "description": "Spacieuze appartement in een modern gebouw in Luik. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 320000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    },
+    {
+        "address": "Kerkstraat 45, 8000 Brugge",
+        "description": "Exclusieve penthousewoning in het historische centrum van Brugge. Deze penthouse beschikt over vier slaapkamers, drie badkamers, een ruime woonkamer met uitzicht op de grachten, een moderne keuken met kookeiland, meerdere terrassen, een eigen lift en een garage. Voorzien van luxe afwerkingen en high-end voorzieningen. Oppervlakte van 250m².",
+        "attributes": {
+            "project_type": "penthouse",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 900000,
+            "parking": "yes",
+            "available_sizes": ["250m²"]
+        }
+    },
+    {
+        "address": "Lange Haven 20, 2000 Antwerpen",
+        "description": "Modern herenhuis aan de Lange Haven in Antwerpen. De woning omvat zes slaapkamers, vier badkamers, een grote open woonkamer, een moderne keuken met eiland, een thuisbioscoop, een gymzaal, een zwembad, een grote tuin met terras, en een garage voor vier auto's. Gelegen in een prestigieuze buurt nabij water en recreatieve voorzieningen. Oppervlakte van 400m².",
+        "attributes": {
+            "project_type": "herenhuis",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 1200000,
+            "parking": "yes",
+            "available_sizes": ["400m²"]
+        }
+    },
+    {
+        "address": "Parkstraat 18, 3000 Leuven",
+        "description": "Luxe appartement in een gerenoveerd hoogbouwgebouw in Leuven. Het appartement beschikt over drie slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een moderne keuken met ingebouwde apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en smart home systemen. Oppervlakte van 160m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 3,
+            "number_of_bathrooms": 2,
+            "price_from": 420000,
+            "parking": "yes",
+            "available_sizes": ["160m²"]
+        }
+    },
+    {
+        "address": "Middenweg 33, 5000 Breda",
+        "description": "Spacieuze gezinswoning aan de Middenweg in Breda. De woning omvat vier slaapkamers, drie badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras, en een garage voor twee auto's. Gelegen in een rustige en kindvriendelijke buurt nabij scholen en parken. Oppervlakte van 180m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 4,
+            "number_of_bathrooms": 3,
+            "price_from": 450000,
+            "parking": "yes",
+            "available_sizes": ["180m²"]
+        }
+    },
+    {
+        "address": "Lichtstraat 25, 6000 Charleroi",
+        "description": "Modern appartement in een nieuwbouwcomplex in Charleroi. Het appartement beschikt over twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Het gebouw biedt ook een fitnessruimte en een gemeenschappelijke tuin. Oppervlakte van 130m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 310000,
+            "parking": "yes",
+            "available_sizes": ["130m²"]
+        }
+    },
+    {
+        "address": "Vijverweg 60, 8500 Kortrijk",
+        "description": "Luxueuze gezinswoning gelegen aan de Vijverweg in Kortrijk. Deze woning biedt zes slaapkamers, vier badkamers, een moderne open keuken met kookeiland, een grote woonkamer met open haard, een serre, een tuin met terras en zwembad, en een garage voor drie auto's. Voorzien van luxe afwerkingen en hoogwaardige installaties. Oppervlakte van 350m².",
+        "attributes": {
+            "project_type": "gezinswoning",
+            "number_of_bedrooms": 6,
+            "number_of_bathrooms": 4,
+            "price_from": 650000,
+            "parking": "yes",
+            "available_sizes": ["350m²"]
+        }
+    },
+    {
+        "address": "Kleine Markt 22, 1000 Brussel",
+        "description": "Modern appartement in een gerenoveerd historisch gebouw in Brussel. Het appartement omvat twee slaapkamers, twee badkamers, een ruime woonkamer met grote ramen, een open keuken met moderne apparatuur, een balkon en een eigen parkeerplaats. Voorzien van airconditioning en vloerverwarming. Oppervlakte van 140m².",
+        "attributes": {
+            "project_type": "appartement",
+            "number_of_bedrooms": 2,
+            "number_of_bathrooms": 2,
+            "price_from": 340000,
+            "parking": "yes",
+            "available_sizes": ["140m²"]
+        }
+    }
+]

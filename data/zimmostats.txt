@@ -1,0 +1,42 @@
+{
+    "project_type": {
+        "used": 14,
+        "success": 12
+    },
+    "delivery_date": {
+        "used": 14,
+        "success": 0
+    },
+    "investment_option": {
+        "used": 14,
+        "success": 0
+    },
+    "available_sizes": {
+        "used": 5,
+        "success": 3
+    },
+    "ground_area": {
+        "used": 0,
+        "success": 0
+    },
+    "price_from": {
+        "used": 4,
+        "success": 0
+    },
+    "bathrooms": {
+        "used": 6,
+        "success": 6
+    },
+    "bedrooms": {
+        "used": 6,
+        "success": 6
+    },
+    "wc_count": {
+        "used": 14,
+        "success": 14
+    },
+    "parkings": {
+        "used": 13,
+        "success": 3
+    }
+}

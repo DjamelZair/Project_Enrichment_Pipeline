@@ -1,0 +1,4618 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96320487,
+                "osm_type": "way",
+                "osm_id": 347333600,
+                "lat": "50.85769502568546",
+                "lon": "4.408995978729384",
+                "display_name": "Chaussée de Louvain - Leuvensesteenweg, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+                "road": [
+                    "Chaussée de Louvain",
+                    "Leuvensesteenweg"
+                ],
+                "neighbourhood": [
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Evere"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1140",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 8,
+                "project_type": "House",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "337,500.00 EUR",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "This property is a house located in Evere, offering new construction with favorable financing terms. Investors may find this property attractive due to its location and the opportunity to purchase a new build with a competitive interest rate."
+            },
+            {
+                "place_id": 95939091,
+                "osm_type": "way",
+                "osm_id": 245964287,
+                "lat": "50.85825727892255",
+                "lon": "4.409022798216148",
+                "display_name": "Avenue du Destrier - Strijdroslaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+                "road": [
+                    "Avenue du Destrier",
+                    "Strijdroslaan"
+                ],
+                "neighbourhood": [
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Evere"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1140",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96320487,
+            "osm_type": "way",
+            "osm_id": 347333600,
+            "lat": "50.85769502568546",
+            "lon": "4.408995978729384",
+            "display_name": "Chaussée de Louvain - Leuvensesteenweg, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+            "road": [
+                "Chaussée de Louvain",
+                "Leuvensesteenweg"
+            ],
+            "neighbourhood": [
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Evere"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1140",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 8
+        }
+    },
+    {
+        "id": 2,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95797285,
+                "osm_type": "way",
+                "osm_id": 23149324,
+                "lat": "50.74073229158428",
+                "lon": "4.250150925259275",
+                "display_name": "Kerkstraat, Eizingen, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, België / Belgique / Belgien",
+                "road": [
+                    "Kerkstraat"
+                ],
+                "neighbourhood": [
+                    "Eizingen"
+                ],
+                "village": [
+                    "Buizingen"
+                ],
+                "town": [
+                    "Halle"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1501",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4
+            },
+            {
+                "place_id": 95914527,
+                "osm_type": "way",
+                "osm_id": 121410129,
+                "lat": "50.740547180441254",
+                "lon": "4.249936916473293",
+                "display_name": "Nachtegaalstraat, De Kluis, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, België / Belgique / Belgien",
+                "road": [
+                    "Nachtegaalstraat"
+                ],
+                "neighbourhood": [
+                    "De Kluis"
+                ],
+                "village": [
+                    "Buizingen"
+                ],
+                "town": [
+                    "Halle"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1501",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9,
+                "project_type": "Houses and apartments",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "The Nachtegaalstraat area in Buizingen offers a mix of houses and apartments for sale or rent, providing investors with a diverse range of options to consider. The location in Buizingen - Bos, Buizingen (1501) is desirable, potentially attracting tenants or buyers looking for a peaceful residential area. Investors can explore the evolution of real estate prices in the area to make informed decisions about potential returns on investment. Availability of properties for both sale and rent can cater to different investment strategies, whether for long-term rental income or capital appreciation through resale."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95914527,
+            "osm_type": "way",
+            "osm_id": 121410129,
+            "lat": "50.740547180441254",
+            "lon": "4.249936916473293",
+            "display_name": "Nachtegaalstraat, De Kluis, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, België / Belgique / Belgien",
+            "road": [
+                "Nachtegaalstraat"
+            ],
+            "neighbourhood": [
+                "De Kluis"
+            ],
+            "village": [
+                "Buizingen"
+            ],
+            "town": [
+                "Halle"
+            ],
+            "county": [
+                "Halle-Vilvoorde"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "1501",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 3,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95902849,
+                "osm_type": "way",
+                "osm_id": 1112472487,
+                "lat": "50.740589637220005",
+                "lon": "4.982548924297103",
+                "display_name": "Rue du Brasseur, Hampteau, Opheylissem, Hélécine, Nivelles, Brabant wallon, Wallonie, 1357, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Brasseur"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Opheylissem"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Nivelles"
+                ],
+                "state": "Brabant wallon",
+                "postcode": "1357",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95902849,
+            "osm_type": "way",
+            "osm_id": 1112472487,
+            "lat": "50.740589637220005",
+            "lon": "4.982548924297103",
+            "display_name": "Rue du Brasseur, Hampteau, Opheylissem, Hélécine, Nivelles, Brabant wallon, Wallonie, 1357, België / Belgique / Belgien",
+            "road": [
+                "Rue du Brasseur"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Opheylissem"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Nivelles"
+            ],
+            "state": "Brabant wallon",
+            "postcode": "1357",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 4,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96164802,
+                "osm_type": "way",
+                "osm_id": 241485727,
+                "lat": "50.85112465182563",
+                "lon": "4.403747722943547",
+                "display_name": "Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, België / Belgique / Belgien",
+                "road": [
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood": [
+                    "Mediapark"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1030",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6,
+                "project_type": "Not specified",
+                "delivery_date": null,
+                "investment_option": "No",
+                "available_sizes": null,
+                "price_from": null,
+                "number_of_bathrooms": null,
+                "number_of_bedrooms": null,
+                "number_of_wcs": null,
+                "parking": null,
+                "description": "The document appears to be geared towards providing information to entrepreneurs in the construction industry, rather than to real estate investors. It underscores the importance of understanding risks prior to embarking on a project, which could be pertinent for investors contemplating real estate development or construction projects. Investors in search of specific property listings or investment opportunities might need to look for additional sources that are specifically designed for real estate transactions."
+            },
+            {
+                "place_id": 96196696,
+                "osm_type": "way",
+                "osm_id": 28939405,
+                "lat": "50.85131497966791",
+                "lon": "4.403318212398516",
+                "display_name": "Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, België / Belgique / Belgien",
+                "road": [
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood": [
+                    "Mediapark"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1030",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 96068634,
+                "osm_type": "way",
+                "osm_id": 15805291,
+                "lat": "50.8510823",
+                "lon": "4.403581",
+                "display_name": "Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, België / Belgique / Belgien",
+                "road": [
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood": [
+                    "Mediapark"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1030",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96164802,
+            "osm_type": "way",
+            "osm_id": 241485727,
+            "lat": "50.85112465182563",
+            "lon": "4.403747722943547",
+            "display_name": "Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, België / Belgique / Belgien",
+            "road": [
+                "Rue Colonel Bourg",
+                "Kolonel Bourgstraat"
+            ],
+            "neighbourhood": [
+                "Mediapark"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Schaerbeek",
+                "Schaarbeek"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1030",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 5,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 98406939,
+                "osm_type": "way",
+                "osm_id": 250518611,
+                "lat": "50.81061179197277",
+                "lon": "3.072475648918763",
+                "display_name": "Ieperstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, België / Belgique / Belgien",
+                "road": [
+                    "Ieperstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Geluwe"
+                ],
+                "town": [
+                    "Wervik"
+                ],
+                "county": [
+                    "Ieper"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8940",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4,
+                "project_type": "Apartment",
+                "delivery_date": null,
+                "investment_option": null,
+                "available_sizes": "135 m²",
+                "price_from": "€ 193.000*",
+                "bathrooms": "1",
+                "bedrooms": "4",
+                "wc_count": 0,
+                "parkings": [],
+                "description": "Deze ruime betaalbare woning met 4 slaapkamers, geïsoleerd dak, vernieuwd PVC schrijnwerk met EPC - C biedt tal van mogelijkheden...ONTDEK DEZE WONING VIA DE VIDEO:https://youtube.com/embed/8roD1LZ3WxY?feature=shareIndeling:Glv: inkomhal (4,43m²) - leefruimte met gaskachel (31,52m²) - keuken (8,60m²) - badkamer (3,83m²) - veranda (14m²) - tuin (167m²) - tuinbergingVerdieping 1: nachthal (1m op 3,5m)  - slaapkamer 1 (17,53m²) - slaapkamer 2 (12,94m²) - mogelijkheid 2de badkamer/douchekamer (4,15m)Verdieping 2: bureauruimte/dressing/3de kamer (12,76m²) - slaapkamer 4 (16,74m²)Verdieping -1: kelder (13,83m²)Extra: rolluiken - conforme elektriciteit - mogelijkheden met keuken, badkamer en veranda (met een investering van 20.000 - 30.000 euro) - mogelijkheid 2de badkamer - vernieuwde leidingen - alle klaar gestoken van leidingen in de ruimte om de tweede badkamer te voorzien - goeie centrale ligging richting Kortrijk, Ieper, Roeselare..."
+            },
+            {
+                "place_id": 93075019,
+                "osm_type": "way",
+                "osm_id": 841781912,
+                "lat": "50.810935244245954",
+                "lon": "3.0728040773564946",
+                "display_name": "Kloosterstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, België / Belgique / Belgien",
+                "road": [
+                    "Kloosterstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Geluwe"
+                ],
+                "town": [
+                    "Wervik"
+                ],
+                "county": [
+                    "Ieper"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8940",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Not specified",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The locations mentioned in the text are addresses of various Colruyt and ALDI stores in different cities such as Ekeren, Geel, Wervik, and Westerlo. The text appears to be listing the addresses of these stores rather than properties for sale or rent. Investors interested in retail real estate might find this information useful for market research or potential investment opportunities in the retail sector."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 98406939,
+            "osm_type": "way",
+            "osm_id": 250518611,
+            "lat": "50.81061179197277",
+            "lon": "3.072475648918763",
+            "display_name": "Ieperstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, België / Belgique / Belgien",
+            "road": [
+                "Ieperstraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Geluwe"
+            ],
+            "town": [
+                "Wervik"
+            ],
+            "county": [
+                "Ieper"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8940",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 4
+        }
+    },
+    {
+        "id": 6,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 94736968,
+                "osm_type": "way",
+                "osm_id": 1288116750,
+                "lat": "50.65320491189287",
+                "lon": "5.610462635431114",
+                "display_name": "Chemin des Confluences, Droixhe, Bressoux, Liège, Wallonie, 4000, België / Belgique / Belgien",
+                "road": [
+                    "Chemin des Confluences"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Bressoux"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Liège"
+                ],
+                "state": "Liège",
+                "postcode": "4000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 94686106,
+                "osm_type": "way",
+                "osm_id": 1288116764,
+                "lat": "50.652758463117884",
+                "lon": "5.610966124424194",
+                "display_name": "Chemin de la Canopée, Droixhe, Bressoux, Liège, Wallonie, 4000, België / Belgique / Belgien",
+                "road": [
+                    "Chemin de la Canopée"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Bressoux"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Liège"
+                ],
+                "state": "Liège",
+                "postcode": "4000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 94736968,
+            "osm_type": "way",
+            "osm_id": 1288116750,
+            "lat": "50.65320491189287",
+            "lon": "5.610462635431114",
+            "display_name": "Chemin des Confluences, Droixhe, Bressoux, Liège, Wallonie, 4000, België / Belgique / Belgien",
+            "road": [
+                "Chemin des Confluences"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Bressoux"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Liège"
+            ],
+            "state": "Liège",
+            "postcode": "4000",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 3
+        }
+    },
+    {
+        "id": 7,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 108963474,
+                "osm_type": "way",
+                "osm_id": 24832334,
+                "lat": "49.68552032147842",
+                "lon": "5.8044081000051495",
+                "display_name": "Rue de Neufchâteau, Arlon, Luxembourg, Wallonie, 6700, België / Belgique / Belgien",
+                "road": [
+                    "Rue de Neufchâteau"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Arlon"
+                ],
+                "county": [
+                    "Arlon"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "187 m²",
+                "price_from": "€390,000",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Yes (2 spaces)",
+                "description": "The apartment is situated on Rue de Neufchâteau in Arlon, a sought-after area. The property is on the market for 390,000 €, which could present a good investment opportunity. The apartment includes two parking spaces, which could be appealing to potential buyers or renters. The property is on the market, making it a potential investment opportunity for real estate investors seeking residential properties in Arlon.",
+                "bathrooms": "1",
+                "bedrooms": "3",
+                "wc_count": 2,
+                "parkings": "2"
+            },
+            {
+                "place_id": 109121866,
+                "osm_type": "way",
+                "osm_id": 305544946,
+                "lat": "49.68558920725045",
+                "lon": "5.804832615052828",
+                "display_name": "Rue d'Alba, Arlon, Luxembourg, Wallonie, 6700, België / Belgique / Belgien",
+                "road": [
+                    "Rue d'Alba"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Arlon"
+                ],
+                "county": [
+                    "Arlon"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 108963474,
+            "osm_type": "way",
+            "osm_id": 24832334,
+            "lat": "49.68552032147842",
+            "lon": "5.8044081000051495",
+            "display_name": "Rue de Neufchâteau, Arlon, Luxembourg, Wallonie, 6700, België / Belgique / Belgien",
+            "road": [
+                "Rue de Neufchâteau"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Arlon"
+            ],
+            "county": [
+                "Arlon"
+            ],
+            "state": "Luxembourg",
+            "postcode": "6700",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 8,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 97005283,
+                "osm_type": "way",
+                "osm_id": 1037491641,
+                "lat": "51.014953296130855",
+                "lon": "4.481555201734334",
+                "display_name": "Mechelen, Antwerpen, Vlaanderen, 2800, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Mechelen"
+                ],
+                "county": [
+                    "Mechelen"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4
+            },
+            {
+                "place_id": 96868437,
+                "osm_type": "way",
+                "osm_id": 551932789,
+                "lat": "51.015220913998526",
+                "lon": "4.481166294691981",
+                "display_name": "Tangent, Mechelen, Antwerpen, Vlaanderen, 2800, België / Belgique / Belgien",
+                "road": [
+                    "Tangent"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Mechelen"
+                ],
+                "county": [
+                    "Mechelen"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9,
+                "project_type": "Ground floor apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "105 m², 675 m²",
+                "price_from": "Price on request",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "2",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "This is a newly constructed assisted living apartment with a terrace, located in a prime area. The property boasts 2 bedrooms and 105 m² of living space, and is located at Muntstraat 3 bus 9, 2800 Mechelen. The total size of the property is 675 m²."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96868437,
+            "osm_type": "way",
+            "osm_id": 551932789,
+            "lat": "51.015220913998526",
+            "lon": "4.481166294691981",
+            "display_name": "Tangent, Mechelen, Antwerpen, Vlaanderen, 2800, België / Belgique / Belgien",
+            "road": [
+                "Tangent"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Mechelen"
+            ],
+            "county": [
+                "Mechelen"
+            ],
+            "state": "Antwerpen",
+            "postcode": "2800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 9,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95260915,
+                "osm_type": "way",
+                "osm_id": 87304285,
+                "lat": "50.87958449942913",
+                "lon": "4.729476445652523",
+                "display_name": "Prins-Regentplein, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België / Belgique / Belgien",
+                "road": [
+                    "Prins-Regentplein"
+                ],
+                "neighbourhood": [
+                    "Lolanden"
+                ],
+                "village": [
+                    "Kessel-Lo"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Leuven"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "3010",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 95725940,
+                "osm_type": "way",
+                "osm_id": 31058513,
+                "lat": "50.8793384",
+                "lon": "4.7299807",
+                "display_name": "Partisanenstraat, Blauwput, Benedenlo, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België / Belgique / Belgien",
+                "road": [
+                    "Partisanenstraat"
+                ],
+                "neighbourhood": [
+                    "Blauwput"
+                ],
+                "village": [
+                    "Kessel-Lo"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Leuven"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "3010",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4,
+                "project_type": "Not specified",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The property located at Partisanenstraat 20, Kessel-Lo, Leuven is not currently available for sale or rent via Realo. This could suggest that the property is either off the market or being sold or rented through other channels. Investors interested in this area might need to look at other listings or consider contacting local real estate professionals for possible future availability."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95725940,
+            "osm_type": "way",
+            "osm_id": 31058513,
+            "lat": "50.8793384",
+            "lon": "4.7299807",
+            "display_name": "Partisanenstraat, Blauwput, Benedenlo, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België / Belgique / Belgien",
+            "road": [
+                "Partisanenstraat"
+            ],
+            "neighbourhood": [
+                "Blauwput"
+            ],
+            "village": [
+                "Kessel-Lo"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Leuven"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "3010",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 4
+        }
+    },
+    {
+        "id": 10,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 92233214,
+                "osm_type": "way",
+                "osm_id": 7219878,
+                "lat": "51.03307307002912",
+                "lon": "3.7114285071785615",
+                "display_name": "Ganzendries, Stationsbuurt Zuid, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien",
+                "road": [
+                    "Ganzendries"
+                ],
+                "neighbourhood": [
+                    "Stationsbuurt Zuid"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Gent"
+                ],
+                "state": "Oost-Vlaanderen",
+                "postcode": "9000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 92233214,
+            "osm_type": "way",
+            "osm_id": 7219878,
+            "lat": "51.03307307002912",
+            "lon": "3.7114285071785615",
+            "display_name": "Ganzendries, Stationsbuurt Zuid, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien",
+            "road": [
+                "Ganzendries"
+            ],
+            "neighbourhood": [
+                "Stationsbuurt Zuid"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Gent"
+            ],
+            "state": "Oost-Vlaanderen",
+            "postcode": "9000",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 11,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95818539,
+                "osm_type": "way",
+                "osm_id": 887541925,
+                "lat": "50.56226069747914",
+                "lon": "4.161121050804668",
+                "display_name": "Clos de la Scierie, Écaussinnes, Écaussinnes-d'Enghien, Écaussinnes, Soignies, Hainaut, Wallonie, 7190, België / Belgique / Belgien",
+                "road": [
+                    "Clos de la Scierie"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Écaussinnes-d'Enghien"
+                ],
+                "town": [
+                    "Écaussinnes"
+                ],
+                "county": [
+                    "Soignies"
+                ],
+                "state": "Hainaut",
+                "postcode": "7190",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95818539,
+            "osm_type": "way",
+            "osm_id": 887541925,
+            "lat": "50.56226069747914",
+            "lon": "4.161121050804668",
+            "display_name": "Clos de la Scierie, Écaussinnes, Écaussinnes-d'Enghien, Écaussinnes, Soignies, Hainaut, Wallonie, 7190, België / Belgique / Belgien",
+            "road": [
+                "Clos de la Scierie"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Écaussinnes-d'Enghien"
+            ],
+            "town": [
+                "Écaussinnes"
+            ],
+            "county": [
+                "Soignies"
+            ],
+            "state": "Hainaut",
+            "postcode": "7190",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 12,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 106811995,
+                "osm_type": "way",
+                "osm_id": 1301493441,
+                "lat": "50.63361930348302",
+                "lon": "6.029181323361731",
+                "display_name": "Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Eupen"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            },
+            {
+                "place_id": 106918365,
+                "osm_type": "way",
+                "osm_id": 1301493466,
+                "lat": "50.63363039999704",
+                "lon": "6.029525622127562",
+                "display_name": "Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Eupen"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            },
+            {
+                "place_id": 106882155,
+                "osm_type": "way",
+                "osm_id": 1162397964,
+                "lat": "50.633401803154804",
+                "lon": "6.029245595860846",
+                "display_name": "Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+                "road": [
+                    "Kneippweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Eupen"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            }
+        ],
+        "nearest_address": {
+            "place_id": 106811995,
+            "osm_type": "way",
+            "osm_id": 1301493441,
+            "lat": "50.63361930348302",
+            "lon": "6.029181323361731",
+            "display_name": "Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+            "road": [
+                "not specified"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Eupen"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4700",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 2
+        }
+    },
+    {
+        "id": 13,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95458598,
+                "osm_type": "way",
+                "osm_id": 1066918346,
+                "lat": "50.924670219016654",
+                "lon": "4.680866612542215",
+                "display_name": "D' Hoogvorstdreef, Herent, Leuven, Vlaams-Brabant, Vlaanderen, 3020, België / Belgique / Belgien",
+                "road": [
+                    "D' Hoogvorstdreef"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Herent"
+                ],
+                "county": [
+                    "Leuven"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "3020",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5,
+                "project_type": "Land",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": [
+                    "273 m2"
+                ],
+                "price_from": "269,100.00 EUR",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "This land in D'Hoogvorstdreef, Herent, is available for sale and is suitable for investors looking to build a new property. The property is a new construction, and financing options with an interest rate of 2.99% are available through KBC. The total loan amount is 269,100.00 EUR, with a total loan cost of 356,553.47 EUR.",
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": []
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95458598,
+            "osm_type": "way",
+            "osm_id": 1066918346,
+            "lat": "50.924670219016654",
+            "lon": "4.680866612542215",
+            "display_name": "D' Hoogvorstdreef, Herent, Leuven, Vlaams-Brabant, Vlaanderen, 3020, België / Belgique / Belgien",
+            "road": [
+                "D' Hoogvorstdreef"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Herent"
+            ],
+            "county": [
+                "Leuven"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "3020",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 14,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 395986002,
+                "osm_type": "way",
+                "osm_id": 1348455224,
+                "lat": "50.846460762902616",
+                "lon": "4.339723929361446",
+                "display_name": "Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood": [
+                    "Dansaert"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5,
+                "project_type": "Houses",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The properties are situated on Rue de la Senne and Rue Van Helmont in Brussels, a prime area recognized for its central location and closeness to amenities. The properties are houses, presenting potential for long-term investment and rental income. There are 4 houses available as part of a new construction project, giving investors a variety of options to select from. The houses probably offer modern amenities and are part of a new development, making them appealing to potential buyers or renters. The price range for these properties is not specified, but given their location in Brussels, they are likely to be in a higher price bracket, offering potential for good returns on investment."
+            },
+            {
+                "place_id": 96261603,
+                "osm_type": "way",
+                "osm_id": 13252060,
+                "lat": "50.846200832014574",
+                "lon": "4.339582994177002",
+                "display_name": "Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood": [
+                    "Dansaert"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            },
+            {
+                "place_id": 395986001,
+                "osm_type": "way",
+                "osm_id": 1348455223,
+                "lat": "50.846231592888344",
+                "lon": "4.339599510211724",
+                "display_name": "Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood": [
+                    "Dansaert"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 395986002,
+            "osm_type": "way",
+            "osm_id": 1348455224,
+            "lat": "50.846460762902616",
+            "lon": "4.339723929361446",
+            "display_name": "Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+            "road": [
+                "Rue de la Senne",
+                "Zennestraat"
+            ],
+            "neighbourhood": [
+                "Dansaert"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1000",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 15,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96526245,
+                "osm_type": "way",
+                "osm_id": 23113153,
+                "lat": "50.90864681240463",
+                "lon": "4.367866247230214",
+                "display_name": "Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, België / Belgique / Belgien",
+                "road": [
+                    "Keelstraat"
+                ],
+                "neighbourhood": [
+                    "Het Voor"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Vilvoorde"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 7,
+                "project_type": "Houses",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The assessment refers to newly constructed flood barriers in Geraardsbergen and houses affected by flooding in various places. Investors should take into account the flood risk in these areas when evaluating the investment potential of properties in Keelstraat, Terbeek, Kelsbeek, Terbiest, and Ordingen."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96526245,
+            "osm_type": "way",
+            "osm_id": 23113153,
+            "lat": "50.90864681240463",
+            "lon": "4.367866247230214",
+            "display_name": "Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, België / Belgique / Belgien",
+            "road": [
+                "Keelstraat"
+            ],
+            "neighbourhood": [
+                "Het Voor"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Vilvoorde"
+            ],
+            "county": [
+                "Halle-Vilvoorde"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "1800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 7
+        }
+    },
+    {
+        "id": 16,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 93895347,
+                "osm_type": "way",
+                "osm_id": 50340959,
+                "lat": "50.571540527212385",
+                "lon": "5.838885307412967",
+                "display_name": "Chemin du Haras, Sur Gérardhé, Ensival, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+                "road": [
+                    "Chemin du Haras"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Ensival"
+                ],
+                "town": [
+                    "Verviers"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 93895347,
+            "osm_type": "way",
+            "osm_id": 50340959,
+            "lat": "50.571540527212385",
+            "lon": "5.838885307412967",
+            "display_name": "Chemin du Haras, Sur Gérardhé, Ensival, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+            "road": [
+                "Chemin du Haras"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Ensival"
+            ],
+            "town": [
+                "Verviers"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 17,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 391231466,
+                "osm_type": "way",
+                "osm_id": 1064842122,
+                "lat": "50.47478749566496",
+                "lon": "4.208782071185456",
+                "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood": [
+                    "Cité du Beau Site"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "La Louvière"
+                ],
+                "county": [
+                    "La Louvière"
+                ],
+                "state": "Hainaut",
+                "postcode": "7100",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 21
+            }
+        ],
+        "nearest_address": {
+            "place_id": 391231466,
+            "osm_type": "way",
+            "osm_id": 1064842122,
+            "lat": "50.47478749566496",
+            "lon": "4.208782071185456",
+            "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+            "road": [
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood": [
+                "Cité du Beau Site"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "La Louvière"
+            ],
+            "county": [
+                "La Louvière"
+            ],
+            "state": "Hainaut",
+            "postcode": "7100",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 21
+        }
+    },
+    {
+        "id": 18,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 93007544,
+                "osm_type": "way",
+                "osm_id": 502940239,
+                "lat": "50.89246189463293",
+                "lon": "3.334807450098187",
+                "display_name": "Bavikhoofsestraat, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+                "road": [
+                    "Bavikhoofsestraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Ooigem"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Tielt"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8710",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 12,
+                "project_type": "House",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": [
+                    "Not Specified"
+                ],
+                "price_from": [
+                    "Not Specified"
+                ],
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Yes",
+                "description": "The property is located at 58 Bavikhoofsestraat, Ooigem, a sought-after area. The property boasts a garden, garage/parking, and a swimming pool, which are attractive features for potential buyers. The house is currently on the market, offering an investment opportunity for interested parties. Given its amenities and location, the property could attract buyers seeking a cozy family home or a property with rental potential.",
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": [
+                    "Yes"
+                ]
+            },
+            {
+                "place_id": 93058935,
+                "osm_type": "way",
+                "osm_id": 111262145,
+                "lat": "50.89322660015726",
+                "lon": "3.334259004896194",
+                "display_name": "Voetweg, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+                "road": [
+                    "Voetweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Ooigem"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Tielt"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8710",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Apartment",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "103 m²",
+                "price_from": "€ 260.000*",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Gezellig appartement te Ooigem !Gezellig en lichtrijk appartement met ruime leefruimte voorzien van een massieve parket, vervolgens hebben we een ingerichte keuken met berging en waterverzachter. Wandel je verder dan kom je terecht bij de masterbedroom met ingemaakte kasten. De badkamer is tevens voorzien van ingemaakte kasten en een douche.  Verder hebben we nog een extra slaapkamer, apart toilet en een ruime overdekte staanplaats.Met zijn leuke centrale ligging waarbij scholen, winkels en het centrum op wandelafstand is, is dit een ideaal appartement voor wie rustig wil wonen met een vlotte verbinding. De lage energiekosten zijn een troef voor dit aangenaam en vooral ruime appartement.Zeer goed onderhouden appartement met oog voor kwaliteit!Richtprijs 260 000,00 euro Incl. overdekte staanplaats.Contacteer mij voor meer info of een bezoek. Dit kan rechtstreek op het nummerToon nummerof mail naarToon e-mailadres.",
+                "bathrooms": "6 m²",
+                "bedrooms": "12 m²",
+                "wc_count": 0,
+                "parkings": []
+            }
+        ],
+        "nearest_address": {
+            "place_id": 93007544,
+            "osm_type": "way",
+            "osm_id": 502940239,
+            "lat": "50.89246189463293",
+            "lon": "3.334807450098187",
+            "display_name": "Bavikhoofsestraat, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+            "road": [
+                "Bavikhoofsestraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Ooigem"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Tielt"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8710",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 12
+        }
+    },
+    {
+        "id": 19,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 93391656,
+                "osm_type": "way",
+                "osm_id": 8043152,
+                "lat": "50.95166678043536",
+                "lon": "3.122178744551943",
+                "display_name": "Hugo Verrieststraat, Beekkwartier, Roeselare, West-Vlaanderen, Vlaanderen, 8800, België / Belgique / Belgien",
+                "road": [
+                    "Hugo Verrieststraat"
+                ],
+                "neighbourhood": [
+                    "Beekkwartier"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Roeselare"
+                ],
+                "county": [
+                    "Roeselare"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 7,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 93391656,
+            "osm_type": "way",
+            "osm_id": 8043152,
+            "lat": "50.95166678043536",
+            "lon": "3.122178744551943",
+            "display_name": "Hugo Verrieststraat, Beekkwartier, Roeselare, West-Vlaanderen, Vlaanderen, 8800, België / Belgique / Belgien",
+            "road": [
+                "Hugo Verrieststraat"
+            ],
+            "neighbourhood": [
+                "Beekkwartier"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Roeselare"
+            ],
+            "county": [
+                "Roeselare"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 7
+        }
+    },
+    {
+        "id": 20,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95972416,
+                "osm_type": "way",
+                "osm_id": 35682154,
+                "lat": "50.85810977352117",
+                "lon": "4.301207133695971",
+                "display_name": "Rue du Grand-Pré - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Grand-Pré",
+                    "Weilandstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Berchem-Sainte-Agathe",
+                    "Sint-Agatha-Berchem"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1082",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Not specified",
+                "delivery_date": "Not specified",
+                "investment_option": "Not specified",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The text does not provide information related to a property type, sale status, or any key insights for real estate investors."
+            },
+            {
+                "place_id": 95679736,
+                "osm_type": "way",
+                "osm_id": 1320184537,
+                "lat": "50.8580928",
+                "lon": "4.301041",
+                "display_name": "Rue du Grand-Pré - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Grand-Pré",
+                    "Weilandstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Berchem-Sainte-Agathe",
+                    "Sint-Agatha-Berchem"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1082",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95679736,
+            "osm_type": "way",
+            "osm_id": 1320184537,
+            "lat": "50.8580928",
+            "lon": "4.301041",
+            "display_name": "Rue du Grand-Pré - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, België / Belgique / Belgien",
+            "road": [
+                "Rue du Grand-Pré",
+                "Weilandstraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Berchem-Sainte-Agathe",
+                "Sint-Agatha-Berchem"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1082",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 21,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 91967608,
+                "osm_type": "way",
+                "osm_id": 124842645,
+                "lat": "51.210626087150054",
+                "lon": "3.211178430522134",
+                "display_name": "Bevrijdingslaan, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, België / Belgique / Belgien",
+                "road": [
+                    "Bevrijdingslaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Sint-Andries"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brugge"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8200",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4
+            },
+            {
+                "place_id": 91536503,
+                "osm_type": "way",
+                "osm_id": 1247333722,
+                "lat": "51.210139582528946",
+                "lon": "3.2111960133745456",
+                "display_name": "Peter Benoitlaan, Lange Vesting, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, België / Belgique / Belgien",
+                "road": [
+                    "Peter Benoitlaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Sint-Andries"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brugge"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8200",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 12,
+                "project_type": "Apartment",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "2",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "Investors should consider the potential of this renovated 2-bedroom apartment in a prime location, especially given its status as a new build and its exclusivity in the market."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 91536503,
+            "osm_type": "way",
+            "osm_id": 1247333722,
+            "lat": "51.210139582528946",
+            "lon": "3.2111960133745456",
+            "display_name": "Peter Benoitlaan, Lange Vesting, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, België / Belgique / Belgien",
+            "road": [
+                "Peter Benoitlaan"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Sint-Andries"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Brugge"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8200",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 12
+        }
+    },
+    {
+        "id": 22,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 94463585,
+                "osm_type": "way",
+                "osm_id": 50340959,
+                "lat": "50.57165020052447",
+                "lon": "5.838954720254597",
+                "display_name": "Chemin du Haras, Sur Gérardhé, Ensival, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+                "road": [
+                    "Chemin du Haras"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Ensival"
+                ],
+                "town": [
+                    "Verviers"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 94463585,
+            "osm_type": "way",
+            "osm_id": 50340959,
+            "lat": "50.57165020052447",
+            "lon": "5.838954720254597",
+            "display_name": "Chemin du Haras, Sur Gérardhé, Ensival, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+            "road": [
+                "Chemin du Haras"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Ensival"
+            ],
+            "town": [
+                "Verviers"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 23,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96524343,
+                "osm_type": "way",
+                "osm_id": 41853478,
+                "lat": "50.86183961106769",
+                "lon": "4.414210169399105",
+                "display_name": "Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+                "road": [
+                    "Avenue Franz Guillaume",
+                    "Franz Guillaumelaan"
+                ],
+                "neighbourhood": [
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Evere"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1140",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 15,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "926 square feet",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "1",
+                "number_of_bedrooms": "2",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not mentioned",
+                "description": "New construction project featuring 8 apartments. Perfect for investors seeking a contemporary apartment in a growing area. Potential for rental income due to the high demand for apartments in the region."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96524343,
+            "osm_type": "way",
+            "osm_id": 41853478,
+            "lat": "50.86183961106769",
+            "lon": "4.414210169399105",
+            "display_name": "Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+            "road": [
+                "Avenue Franz Guillaume",
+                "Franz Guillaumelaan"
+            ],
+            "neighbourhood": [
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Evere"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1140",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 15
+        }
+    },
+    {
+        "id": 24,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95557542,
+                "osm_type": "way",
+                "osm_id": 1158735946,
+                "lat": "50.99260821115642",
+                "lon": "5.0477141896046",
+                "display_name": "Schaluinveld, Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, België / Belgique / Belgien",
+                "road": [
+                    "Schaluinveld"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Diest"
+                ],
+                "county": [
+                    "Leuven"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "3290",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            },
+            {
+                "place_id": 95600493,
+                "osm_type": "way",
+                "osm_id": 1017099719,
+                "lat": "50.99195906533144",
+                "lon": "5.047349620456073",
+                "display_name": "Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Diest"
+                ],
+                "county": [
+                    "Leuven"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "3290",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95600493,
+            "osm_type": "way",
+            "osm_id": 1017099719,
+            "lat": "50.99195906533144",
+            "lon": "5.047349620456073",
+            "display_name": "Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, België / Belgique / Belgien",
+            "road": [
+                "not specified"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Diest"
+            ],
+            "county": [
+                "Leuven"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "3290",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 4
+        }
+    },
+    {
+        "id": 25,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96524343,
+                "osm_type": "way",
+                "osm_id": 41853478,
+                "lat": "50.86165265724738",
+                "lon": "4.412969754366991",
+                "display_name": "Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+                "road": [
+                    "Avenue Franz Guillaume",
+                    "Franz Guillaumelaan"
+                ],
+                "neighbourhood": [
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Evere"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1140",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 13,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "86m²",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "1",
+                "number_of_bedrooms": "2",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not mentioned",
+                "description": "Location: Franz Guillaume Avenue, 1140 Evere, is a sought-after area for real estate investment due to its strategic location and closeness to facilities. Property Details: The apartment consists of 2 bedrooms, 1 bathroom, and covers 86m2, making it ideal for small families or young professionals. New Construction Project: The building includes 8 apartments, suggesting the possibility of multiple units being available for sale, providing investors with the chance to buy several properties in one place. Investment Potential: With a new construction project, investors can enjoy modern facilities, potentially higher rental returns, and an increase in property value over time."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96524343,
+            "osm_type": "way",
+            "osm_id": 41853478,
+            "lat": "50.86165265724738",
+            "lon": "4.412969754366991",
+            "display_name": "Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België / Belgique / Belgien",
+            "road": [
+                "Avenue Franz Guillaume",
+                "Franz Guillaumelaan"
+            ],
+            "neighbourhood": [
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Evere"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1140",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 13
+        }
+    },
+    {
+        "id": 26,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 92146604,
+                "osm_type": "way",
+                "osm_id": 1295232959,
+                "lat": "50.9100175286727",
+                "lon": "3.3909402390541894",
+                "display_name": "Vlasstraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+                "road": [
+                    "Vlasstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Sint-Baafs-Vijve"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Tielt"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8710",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6,
+                "project_type": "Part of a House, Part of a New Building",
+                "delivery_date": "Not specified",
+                "investment_option": "Not specified",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The property is located in WIELSBEKE, Belgium. The building is constructed with EPS + CREPI (Exterior Insulation and Finish System). The color scheme is RAL 7032 (Grey), using Caparol paint. The address for the part of the house is Bamstraat 7. The part of the new building is located at Vledermauisstraat 70A, 9032 WONDELGEM. The property in Wondelgem features CREPI finishing."
+            },
+            {
+                "place_id": 92725908,
+                "osm_type": "way",
+                "osm_id": 111545644,
+                "lat": "50.90988721283071",
+                "lon": "3.3908704287925433",
+                "display_name": "Sint-Bavostraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+                "road": [
+                    "Sint-Bavostraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Sint-Baafs-Vijve"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Tielt"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8710",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Apartment",
+                "delivery_date": null,
+                "investment_option": null,
+                "available_sizes": "121 m²",
+                "price_from": "€ 299.000*",
+                "bathrooms": "1",
+                "bedrooms": "2",
+                "wc_count": 0,
+                "parkings": [
+                    "Yes"
+                ],
+                "description": "Dit lichtrijk nieuwbouwappartement is gelegen in residentie Rembrandt op centrale ligging in Wielsbeke. Het afgewerkt appartement geniet van 2 kamers, een totale woonoppervlakte van ca. 121m² en terras van ca. 11m².INDELINGInkom - berging - lichtrijke leefruimte met zithoek en eethoek - open keuken (oven, vaatwas, kookplaten, frigo) - berging bij keuken - nachthal - apart toilet - slaapkamer 1 - slaapkamer 2 - badkamer (douche, bad en dubbele lavabo) - terrasTroeven- Energiezuinig- Centrale ligging- Kleinschalig gebouw- Aangename terrassen terras- Openbare parking naast het gebouw- Gemeenschappelijke fietsenberging- Mogelijkheid aankoop garage en/of bergingMogelijkheid om aan te kopen onder 6% btw!"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 92146604,
+            "osm_type": "way",
+            "osm_id": 1295232959,
+            "lat": "50.9100175286727",
+            "lon": "3.3909402390541894",
+            "display_name": "Vlasstraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, België / Belgique / Belgien",
+            "road": [
+                "Vlasstraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Sint-Baafs-Vijve"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Tielt"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8710",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 27,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 97237267,
+                "osm_type": "way",
+                "osm_id": 971427399,
+                "lat": "51.24118744298134",
+                "lon": "4.968585174082372",
+                "display_name": "Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Binnenpad"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5,
+                "project_type": "Not specified",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The property is situated in the heart of Kasterlee, which could be a prime location for real estate investment. The specific property type is not stated, so further research may be required to ascertain the potential return on investment. The mention of 'For Sale' indicates that the property is on the market, presenting an opportunity for investors interested in acquiring real estate in Kasterlee. Joining the local group 'Kasterlee' with 16K members could offer additional insights and networking opportunities for potential investors."
+            },
+            {
+                "place_id": 97236428,
+                "osm_type": "way",
+                "osm_id": 1248993991,
+                "lat": "51.24169891429402",
+                "lon": "4.968814796412487",
+                "display_name": "Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Karekietstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            },
+            {
+                "place_id": 97497491,
+                "osm_type": "way",
+                "osm_id": 237850320,
+                "lat": "51.2414551",
+                "lon": "4.9684861",
+                "display_name": "Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Binnenpad"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            }
+        ],
+        "nearest_address": {
+            "place_id": 97237267,
+            "osm_type": "way",
+            "osm_id": 971427399,
+            "lat": "51.24118744298134",
+            "lon": "4.968585174082372",
+            "display_name": "Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+            "road": [
+                "Binnenpad"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Kasterlee"
+            ],
+            "county": [
+                "Turnhout"
+            ],
+            "state": "Antwerpen",
+            "postcode": "2460",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 28,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95491441,
+                "osm_type": "way",
+                "osm_id": 20612264,
+                "lat": "50.986264818655044",
+                "lon": "5.696665369837814",
+                "display_name": "Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, België / Belgique / Belgien",
+                "road": [
+                    "Kruindersweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Eisden"
+                ],
+                "town": [
+                    "Maasmechelen"
+                ],
+                "county": [
+                    "Tongeren"
+                ],
+                "state": "Limburg",
+                "postcode": "3630",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "97 m²",
+                "price_from": "202,500.00 EUR",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "Potential investment opportunity in a new apartment in Maasmechelen.",
+                "bathrooms": "1",
+                "bedrooms": "2",
+                "wc_count": 0,
+                "parkings": []
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95491441,
+            "osm_type": "way",
+            "osm_id": 20612264,
+            "lat": "50.986264818655044",
+            "lon": "5.696665369837814",
+            "display_name": "Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, België / Belgique / Belgien",
+            "road": [
+                "Kruindersweg"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Eisden"
+            ],
+            "town": [
+                "Maasmechelen"
+            ],
+            "county": [
+                "Tongeren"
+            ],
+            "state": "Limburg",
+            "postcode": "3630",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 29,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 391245093,
+                "osm_type": "way",
+                "osm_id": 1064842122,
+                "lat": "50.47451837793457",
+                "lon": "4.208476370495955",
+                "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood": [
+                    "Cité du Beau Site"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "La Louvière"
+                ],
+                "county": [
+                    "La Louvière"
+                ],
+                "state": "Hainaut",
+                "postcode": "7100",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 13
+            }
+        ],
+        "nearest_address": {
+            "place_id": 391245093,
+            "osm_type": "way",
+            "osm_id": 1064842122,
+            "lat": "50.47451837793457",
+            "lon": "4.208476370495955",
+            "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+            "road": [
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood": [
+                "Cité du Beau Site"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "La Louvière"
+            ],
+            "county": [
+                "La Louvière"
+            ],
+            "state": "Hainaut",
+            "postcode": "7100",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 13
+        }
+    },
+    {
+        "id": 30,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95491441,
+                "osm_type": "way",
+                "osm_id": 20612264,
+                "lat": "50.98624704989967",
+                "lon": "5.696810011778374",
+                "display_name": "Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, België / Belgique / Belgien",
+                "road": [
+                    "Kruindersweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Eisden"
+                ],
+                "town": [
+                    "Maasmechelen"
+                ],
+                "county": [
+                    "Tongeren"
+                ],
+                "state": "Limburg",
+                "postcode": "3630",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 12,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "97 m²",
+                "price_from": "202,500.00 EUR",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "Potential investment opportunity in a new apartment in Maasmechelen.",
+                "bathrooms": "1",
+                "bedrooms": "2",
+                "wc_count": 0,
+                "parkings": []
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95491441,
+            "osm_type": "way",
+            "osm_id": 20612264,
+            "lat": "50.98624704989967",
+            "lon": "5.696810011778374",
+            "display_name": "Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, België / Belgique / Belgien",
+            "road": [
+                "Kruindersweg"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Eisden"
+            ],
+            "town": [
+                "Maasmechelen"
+            ],
+            "county": [
+                "Tongeren"
+            ],
+            "state": "Limburg",
+            "postcode": "3630",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 12
+        }
+    },
+    {
+        "id": 31,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96582773,
+                "osm_type": "way",
+                "osm_id": 8250705,
+                "lat": "50.84816598952667",
+                "lon": "4.36082713203927",
+                "display_name": "Rue du Bois Sauvage - Wildewoudstraat, Quartier de la Cathédrale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Bois Sauvage",
+                    "Wildewoudstraat"
+                ],
+                "neighbourhood": [
+                    "Quartier de la Cathédrale"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 96739356,
+                "osm_type": "way",
+                "osm_id": 15064614,
+                "lat": "50.84841321423336",
+                "lon": "4.360840918057645",
+                "display_name": "Rue de Ligne - de Lignestraat, Quartier de la Cathédrale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+                "road": [
+                    "Rue de Ligne",
+                    "de Lignestraat"
+                ],
+                "neighbourhood": [
+                    "Quartier de la Cathédrale"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1000",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 11,
+                "project_type": "Not specified",
+                "delivery_date": null,
+                "investment_option": "Yes",
+                "available_sizes": null,
+                "price_from": null,
+                "number_of_bathrooms": null,
+                "number_of_bedrooms": null,
+                "number_of_wcs": null,
+                "parking": null,
+                "description": "The property is situated at Lignestraat 1, 1000 Brussels. This location is in the core of Brussels, making it a prime area for real estate investment. Investors should further explore the type of property, availability for sale or rent, and any potential amenities to assess its investment potential."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96739356,
+            "osm_type": "way",
+            "osm_id": 15064614,
+            "lat": "50.84841321423336",
+            "lon": "4.360840918057645",
+            "display_name": "Rue de Ligne - de Lignestraat, Quartier de la Cathédrale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+            "road": [
+                "Rue de Ligne",
+                "de Lignestraat"
+            ],
+            "neighbourhood": [
+                "Quartier de la Cathédrale"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1000",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 11
+        }
+    },
+    {
+        "id": 32,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 92424689,
+                "osm_type": "way",
+                "osm_id": 25794700,
+                "lat": "51.23306055187222",
+                "lon": "3.7454852295059253",
+                "display_name": "Kapellestraat, Kapelle, Assenede, Eeklo, Oost-Vlaanderen, Vlaanderen, 9960, België / Belgique / Belgien",
+                "road": [
+                    "Kapellestraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Assenede"
+                ],
+                "county": [
+                    "Eeklo"
+                ],
+                "state": "Oost-Vlaanderen",
+                "postcode": "9960",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9,
+                "project_type": "House",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "251,100.00 EUR",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "New construction available. Potential investment opportunity in a new house in Assenede"
+            }
+        ],
+        "nearest_address": {
+            "place_id": 92424689,
+            "osm_type": "way",
+            "osm_id": 25794700,
+            "lat": "51.23306055187222",
+            "lon": "3.7454852295059253",
+            "display_name": "Kapellestraat, Kapelle, Assenede, Eeklo, Oost-Vlaanderen, Vlaanderen, 9960, België / Belgique / Belgien",
+            "road": [
+                "Kapellestraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Assenede"
+            ],
+            "county": [
+                "Eeklo"
+            ],
+            "state": "Oost-Vlaanderen",
+            "postcode": "9960",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 33,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96627111,
+                "osm_type": "way",
+                "osm_id": 70086682,
+                "lat": "51.241820459163584",
+                "lon": "4.969330807278993",
+                "display_name": "Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Karekietstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 96704465,
+                "osm_type": "way",
+                "osm_id": 971427398,
+                "lat": "51.2412552",
+                "lon": "4.9700345",
+                "display_name": "Monseigneur Miertsstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Monseigneur Miertsstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            },
+            {
+                "place_id": 97218502,
+                "osm_type": "way",
+                "osm_id": 971427397,
+                "lat": "51.24101537547266",
+                "lon": "4.96963756417947",
+                "display_name": "Retiesebaan, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+                "road": [
+                    "Retiesebaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kasterlee"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2460",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1,
+                "project_type": "Standalone house",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "Situated in Kasterlee, a sought-after location renowned for its natural beauty and tranquil environment. The property is a standalone house, providing privacy and plenty of outdoor space with a large garden. Located at 100 Retiesebaan, offering convenient access to facilities and transport. Perfect for investors seeking a residential property with opportunities for personalization or expansion. Notarized sale, guaranteeing a safe and transparent transaction process."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96627111,
+            "osm_type": "way",
+            "osm_id": 70086682,
+            "lat": "51.241820459163584",
+            "lon": "4.969330807278993",
+            "display_name": "Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, België / Belgique / Belgien",
+            "road": [
+                "Karekietstraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Kasterlee"
+            ],
+            "county": [
+                "Turnhout"
+            ],
+            "state": "Antwerpen",
+            "postcode": "2460",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 3
+        }
+    },
+    {
+        "id": 34,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 93785001,
+                "osm_type": "way",
+                "osm_id": 458894805,
+                "lat": "50.45619566275346",
+                "lon": "4.158418561244245",
+                "display_name": "Rue du Four à Chaux, Cité de Saint-Vaast, Tierne Mayette, Saint-Vaast, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Four à Chaux"
+                ],
+                "neighbourhood": [
+                    "Cité de Saint-Vaast"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "La Louvière"
+                ],
+                "county": [
+                    "La Louvière"
+                ],
+                "state": "Hainaut",
+                "postcode": "7100",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9
+            }
+        ],
+        "nearest_address": {
+            "place_id": 93785001,
+            "osm_type": "way",
+            "osm_id": 458894805,
+            "lat": "50.45619566275346",
+            "lon": "4.158418561244245",
+            "display_name": "Rue du Four à Chaux, Cité de Saint-Vaast, Tierne Mayette, Saint-Vaast, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+            "road": [
+                "Rue du Four à Chaux"
+            ],
+            "neighbourhood": [
+                "Cité de Saint-Vaast"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "La Louvière"
+            ],
+            "county": [
+                "La Louvière"
+            ],
+            "state": "Hainaut",
+            "postcode": "7100",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 35,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 94165095,
+                "osm_type": "way",
+                "osm_id": 68424275,
+                "lat": "50.61291059657306",
+                "lon": "5.618895724876333",
+                "display_name": "Rue Sœur Lutgardis, Lhoneux, Chênée, Liège, Wallonie, 4032, België / Belgique / Belgien",
+                "road": [
+                    "Rue Sœur Lutgardis"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Chênée"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Liège"
+                ],
+                "state": "Liège",
+                "postcode": "4032",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 94165095,
+            "osm_type": "way",
+            "osm_id": 68424275,
+            "lat": "50.61291059657306",
+            "lon": "5.618895724876333",
+            "display_name": "Rue Sœur Lutgardis, Lhoneux, Chênée, Liège, Wallonie, 4032, België / Belgique / Belgien",
+            "road": [
+                "Rue Sœur Lutgardis"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Chênée"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Liège"
+            ],
+            "state": "Liège",
+            "postcode": "4032",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 36,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 108604167,
+                "osm_type": "way",
+                "osm_id": 984084803,
+                "lat": "49.69794170060312",
+                "lon": "5.308598556849826",
+                "display_name": "Rue Généraux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, België / Belgique / Belgien",
+                "road": [
+                    "Rue Généraux Cuvelier"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Florenville"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Virton"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6820",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3,
+                "project_type": "Not specified",
+                "delivery_date": null,
+                "investment_option": "Yes",
+                "available_sizes": null,
+                "price_from": null,
+                "number_of_bathrooms": null,
+                "number_of_bedrooms": null,
+                "number_of_wcs": null,
+                "parking": null,
+                "description": "The property is located at 30 Generaux Cuvelier Street, Florenville, Belgium. The address suggests a potential residential property, but without further details, it's challenging to determine the exact property type or sale status. Investors interested in properties in Florenville may want to inquire further about this listing to understand its potential for investment."
+            },
+            {
+                "place_id": 108522820,
+                "osm_type": "way",
+                "osm_id": 363568232,
+                "lat": "49.69792361267926",
+                "lon": "5.308767424446045",
+                "display_name": "Rue Généraux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, België / Belgique / Belgien",
+                "road": [
+                    "Rue Généraux Cuvelier"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Florenville"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Virton"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6820",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            }
+        ],
+        "nearest_address": {
+            "place_id": 108522820,
+            "osm_type": "way",
+            "osm_id": 363568232,
+            "lat": "49.69792361267926",
+            "lon": "5.308767424446045",
+            "display_name": "Rue Généraux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, België / Belgique / Belgien",
+            "road": [
+                "Rue Généraux Cuvelier"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Florenville"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Virton"
+            ],
+            "state": "Luxembourg",
+            "postcode": "6820",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 37,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 108372162,
+                "osm_type": "way",
+                "osm_id": 339814112,
+                "lat": "49.8359468",
+                "lon": "5.7361935",
+                "display_name": "Au Puits de la Mine, Radelange, Martelange, Arlon, Luxembourg, Wallonie, 6630, België / Belgique / Belgien",
+                "road": [
+                    "Au Puits de la Mine"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Radelange"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Arlon"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6630",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 6
+            }
+        ],
+        "nearest_address": {
+            "place_id": 108372162,
+            "osm_type": "way",
+            "osm_id": 339814112,
+            "lat": "49.8359468",
+            "lon": "5.7361935",
+            "display_name": "Au Puits de la Mine, Radelange, Martelange, Arlon, Luxembourg, Wallonie, 6630, België / Belgique / Belgien",
+            "road": [
+                "Au Puits de la Mine"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Radelange"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Arlon"
+            ],
+            "state": "Luxembourg",
+            "postcode": "6630",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 6
+        }
+    },
+    {
+        "id": 38,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 97147537,
+                "osm_type": "way",
+                "osm_id": 38366002,
+                "lat": "51.08817265198389",
+                "lon": "4.9189907384200415",
+                "display_name": "Grote Markt, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, België / Belgique / Belgien",
+                "road": [
+                    "Grote Markt"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Westerlo"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2260",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 24,
+                "project_type": "Apartment",
+                "delivery_date": null,
+                "investment_option": null,
+                "available_sizes": "287 m²",
+                "price_from": "€ 379.000*",
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": [
+                    "Yes"
+                ],
+                "description": "Ligging:Zeer gunstig gelegen op de grote markt van Westerlo, zeer goede visibiliteit en vele parkeermogleijkheden in de buurt.Omschrijving:Vooraan is de winkelruimte van gelegen, deze beschikt over een groot vitrineraam. Aansluitend is er de grote bakkerij, met opslagplaats en werkruimte. Via de aparte inkom betreden we het appartement gelegen op de eerste en tweede verdieping. Tevens is er een tuin met terras.Extra:- zeer centraal gelegen, en makkelijk bereikbaar- parkeergelegenheid in de straat- Tal van mogelijkhedenVg, wg, gvkr, gmo, gvv\"overstromingsgevoeligheid: P-score klasse B / G-score klasse B \"Dit pand kan onderhevig zijn aan de renovatieverplichting die door de Vlaamse overheid wordt opgelegd voor residentiële gebouwen. Consulteer voor meer informatie de website van het Vlaams Energie- en Klimaatagentschap viahttps://www.energiesparen.be/renovatieverplichting-residenti%C3%ABle-gebouwen-2023."
+            },
+            {
+                "place_id": 96474422,
+                "osm_type": "way",
+                "osm_id": 24879125,
+                "lat": "51.08837853126342",
+                "lon": "4.919805309635902",
+                "display_name": "Rietstraat, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, België / Belgique / Belgien",
+                "road": [
+                    "Rietstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Westerlo"
+                ],
+                "county": [
+                    "Turnhout"
+                ],
+                "state": "Antwerpen",
+                "postcode": "2260",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Not specified",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "MEHA is a development located at 3 Ambachtenstraat, Westerlo 2260. The development is described as 'finished and ready to live in.' Investors may find this project appealing due to its completed state, potentially indicating a quick return on investment or immediate rental income. The website www.mehaprojects.be can provide further details for interested investors."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 97147537,
+            "osm_type": "way",
+            "osm_id": 38366002,
+            "lat": "51.08817265198389",
+            "lon": "4.9189907384200415",
+            "display_name": "Grote Markt, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, België / Belgique / Belgien",
+            "road": [
+                "Grote Markt"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Westerlo"
+            ],
+            "county": [
+                "Turnhout"
+            ],
+            "state": "Antwerpen",
+            "postcode": "2260",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 24
+        }
+    },
+    {
+        "id": 39,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 109028378,
+                "osm_type": "way",
+                "osm_id": 1284929436,
+                "lat": "49.674162",
+                "lon": "5.7938579",
+                "display_name": "Rue des Cigognes, Heinsch, Arlon, Luxembourg, Wallonie, 6700, België / Belgique / Belgien",
+                "road": [
+                    "Rue des Cigognes"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Heinsch"
+                ],
+                "town": [
+                    "Arlon"
+                ],
+                "county": [
+                    "Arlon"
+                ],
+                "state": "Luxembourg",
+                "postcode": "6700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 9,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "58m2",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "1",
+                "number_of_bedrooms": "1",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not mentioned",
+                "description": "The property is situated in Galgenberg, Arlon, a sought-after area in 6700 Arlon. The apartment features 1 bedroom, 1 bathroom, and covers an area of 58m2. The building is comprised of 27 apartments, suggesting a potential for a larger investment opportunity. The specific amenities of the apartment have not been detailed, however, as part of a new construction project, it may include modern features and facilities."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 109028378,
+            "osm_type": "way",
+            "osm_id": 1284929436,
+            "lat": "49.674162",
+            "lon": "5.7938579",
+            "display_name": "Rue des Cigognes, Heinsch, Arlon, Luxembourg, Wallonie, 6700, België / Belgique / Belgien",
+            "road": [
+                "Rue des Cigognes"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Heinsch"
+            ],
+            "town": [
+                "Arlon"
+            ],
+            "county": [
+                "Arlon"
+            ],
+            "state": "Luxembourg",
+            "postcode": "6700",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 9
+        }
+    },
+    {
+        "id": 40,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 96376442,
+                "osm_type": "way",
+                "osm_id": 25423595,
+                "lat": "50.83324295708655",
+                "lon": "4.31490831009844",
+                "display_name": "Rue de Biestebroeck - Biestebroekstraat, Petite Île - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, België / Belgique / Belgien",
+                "road": [
+                    "Rue de Biestebroeck",
+                    "Biestebroekstraat"
+                ],
+                "neighbourhood": [
+                    "Petite Île",
+                    "Klein Eiland"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Anderlecht"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1070",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Not Specified",
+                "delivery_date": "Not Specified",
+                "investment_option": "Not Specified",
+                "available_sizes": "Not Specified",
+                "price_from": "Not Specified",
+                "number_of_bathrooms": "Not Specified",
+                "number_of_bedrooms": "Not Specified",
+                "number_of_wcs": "Not Specified",
+                "parking": "Not Specified",
+                "description": "Not Specified"
+            },
+            {
+                "place_id": 95735792,
+                "osm_type": "way",
+                "osm_id": 25423667,
+                "lat": "50.83303969924869",
+                "lon": "4.314896886864363",
+                "display_name": "Petite Île - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "Petite Île",
+                    "Klein Eiland"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Anderlecht"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1070",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            },
+            {
+                "place_id": 96376413,
+                "osm_type": "way",
+                "osm_id": 25423626,
+                "lat": "50.83311223880124",
+                "lon": "4.315216818055618",
+                "display_name": "Quai de Biestebroeck - Biestebroekkaai, Petite Île - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, België / Belgique / Belgien",
+                "road": [
+                    "Quai de Biestebroeck",
+                    "Biestebroekkaai"
+                ],
+                "neighbourhood": [
+                    "Petite Île",
+                    "Klein Eiland"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Anderlecht"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1070",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            }
+        ],
+        "nearest_address": {
+            "place_id": 96376442,
+            "osm_type": "way",
+            "osm_id": 25423595,
+            "lat": "50.83324295708655",
+            "lon": "4.31490831009844",
+            "display_name": "Rue de Biestebroeck - Biestebroekstraat, Petite Île - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, België / Belgique / Belgien",
+            "road": [
+                "Rue de Biestebroeck",
+                "Biestebroekstraat"
+            ],
+            "neighbourhood": [
+                "Petite Île",
+                "Klein Eiland"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Anderlecht"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1070",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 2
+        }
+    },
+    {
+        "id": 41,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 106749031,
+                "osm_type": "way",
+                "osm_id": 1301501731,
+                "lat": "50.633157781376596",
+                "lon": "6.028076489548827",
+                "display_name": "Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+                "road": [
+                    "Kneippweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Eupen"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 7
+            },
+            {
+                "place_id": 106741788,
+                "osm_type": "way",
+                "osm_id": 1301493441,
+                "lat": "50.633329601641776",
+                "lon": "6.028215706494997",
+                "display_name": "Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+                "road": [
+                    "not specified"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Eupen"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4700",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            }
+        ],
+        "nearest_address": {
+            "place_id": 106749031,
+            "osm_type": "way",
+            "osm_id": 1301501731,
+            "lat": "50.633157781376596",
+            "lon": "6.028076489548827",
+            "display_name": "Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Liège, Wallonie, 4700, België / Belgique / Belgien",
+            "road": [
+                "Kneippweg"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Eupen"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4700",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 7
+        }
+    },
+    {
+        "id": 42,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95383484,
+                "osm_type": "way",
+                "osm_id": 24713428,
+                "lat": "50.731370209555486",
+                "lon": "4.229918125352849",
+                "display_name": "Wilgenveld, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, België / Belgique / Belgien",
+                "road": [
+                    "Wilgenveld"
+                ],
+                "neighbourhood": [
+                    "Grote Weide"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Halle"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1500",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 5
+            },
+            {
+                "place_id": 95431266,
+                "osm_type": "way",
+                "osm_id": 221123684,
+                "lat": "50.731598766670814",
+                "lon": "4.2303173192440715",
+                "display_name": "Auguste Demaeghtlaan, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, België / Belgique / Belgien",
+                "road": [
+                    "Auguste Demaeghtlaan"
+                ],
+                "neighbourhood": [
+                    "Grote Weide"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Halle"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1500",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2,
+                "project_type": "Apartment",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": [
+                    "Not Specified"
+                ],
+                "price_from": [
+                    "Not Specified"
+                ],
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "Not mentioned",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "The penthouse is a part of a contemporary new construction building named Residentie Celly, which is comprised of 20 apartments. The property is within walking distance of the lively city center, offering easy access to shops, restaurants, and other facilities.",
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": []
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95383484,
+            "osm_type": "way",
+            "osm_id": 24713428,
+            "lat": "50.731370209555486",
+            "lon": "4.229918125352849",
+            "display_name": "Wilgenveld, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, België / Belgique / Belgien",
+            "road": [
+                "Wilgenveld"
+            ],
+            "neighbourhood": [
+                "Grote Weide"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Halle"
+            ],
+            "county": [
+                "Halle-Vilvoorde"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "1500",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 5
+        }
+    },
+    {
+        "id": 44,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95802602,
+                "osm_type": "way",
+                "osm_id": 23113153,
+                "lat": "50.90864681240463",
+                "lon": "4.367866247230214",
+                "display_name": "Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, België / Belgique / Belgien",
+                "road": [
+                    "Keelstraat"
+                ],
+                "neighbourhood": [
+                    "Het Voor"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Vilvoorde"
+                ],
+                "county": [
+                    "Halle-Vilvoorde"
+                ],
+                "state": "Vlaams-Brabant",
+                "postcode": "1800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 7,
+                "project_type": "Houses",
+                "delivery_date": "Not specified",
+                "investment_option": "Yes",
+                "available_sizes": "Not specified",
+                "price_from": "Not specified",
+                "number_of_bathrooms": "Not specified",
+                "number_of_bedrooms": "Not specified",
+                "number_of_wcs": "Not specified",
+                "parking": "Not specified",
+                "description": "The reference to 'overstroomde huizen' (flooded houses) in the locations of Keelstraat, Terbeek, Kelsbeek, Terbiest, and Ordingen in 2010 due to flooding indicates potential risks associated with investing in properties in flood-prone areas. Investors should conduct thorough due diligence on the property's history of flooding and assess the potential impact on property value and insurance costs."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95802602,
+            "osm_type": "way",
+            "osm_id": 23113153,
+            "lat": "50.90864681240463",
+            "lon": "4.367866247230214",
+            "display_name": "Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, België / Belgique / Belgien",
+            "road": [
+                "Keelstraat"
+            ],
+            "neighbourhood": [
+                "Het Voor"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Vilvoorde"
+            ],
+            "county": [
+                "Halle-Vilvoorde"
+            ],
+            "state": "Vlaams-Brabant",
+            "postcode": "1800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 7
+        }
+    },
+    {
+        "id": 45,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 91031361,
+                "osm_type": "way",
+                "osm_id": 55178502,
+                "lat": "51.108468866516475",
+                "lon": "2.6140585006123227",
+                "display_name": "Smeyerslaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien",
+                "road": [
+                    "Smeyerslaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Koksijde"
+                ],
+                "county": [
+                    "Veurne"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8670",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 11,
+                "project_type": "House",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "Not mentioned",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "4",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "This delightful villa boasts 4 bedrooms, providing plenty of room for a family or as a holiday home. Homes in Koksijde are highly sought after, particularly those with multiple bedrooms, making this property a potentially profitable investment opportunity."
+            },
+            {
+                "place_id": 91260921,
+                "osm_type": "way",
+                "osm_id": 239456722,
+                "lat": "51.10804618017355",
+                "lon": "2.613883265482802",
+                "display_name": "Strandlaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien",
+                "road": [
+                    "Strandlaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Koksijde"
+                ],
+                "county": [
+                    "Veurne"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8670",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3,
+                "project_type": "Apartment",
+                "delivery_date": null,
+                "investment_option": null,
+                "available_sizes": [
+                    "128m2"
+                ],
+                "price_from": [
+                    "Not Specified"
+                ],
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": [],
+                "description": "Een prima plek om ten volle te genieten van uw tijd aan zee. Residentie Parelduiker telt 11 ruime appartementen, van 95 tot 128m². Dit nieuwe project bevindt zich op wandelafstand van het commerciële van Sint-Idesbald."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 91031361,
+            "osm_type": "way",
+            "osm_id": 55178502,
+            "lat": "51.108468866516475",
+            "lon": "2.6140585006123227",
+            "display_name": "Smeyerslaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien",
+            "road": [
+                "Smeyerslaan"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Koksijde"
+            ],
+            "county": [
+                "Veurne"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8670",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 11
+        }
+    },
+    {
+        "id": 46,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 91424591,
+                "osm_type": "way",
+                "osm_id": 157165722,
+                "lat": "51.02212777379902",
+                "lon": "3.0450244750300657",
+                "display_name": "Hoogledestraat, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, België / Belgique / Belgien",
+                "road": [
+                    "Hoogledestraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Kortemark"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Diksmuide"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8610",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4,
+                "project_type": null,
+                "delivery_date": null,
+                "investment_option": null,
+                "available_sizes": [
+                    "210 m2",
+                    "451 m2",
+                    "193 m2",
+                    "138 m2",
+                    "155 m2",
+                    "160 m2",
+                    "5 m2"
+                ],
+                "price_from": [
+                    "Not Specified"
+                ],
+                "bathrooms": 0,
+                "bedrooms": 0,
+                "wc_count": 0,
+                "parkings": [],
+                "description": "Op een centrale ligging te Kortemark bevindt zich dit KMO-project bestaande uit 7 nieuwbouw KMO-units met oppervlaktes tussen de 138 m² en 451 m².Geschikt voor zowel opslag als productie.Beschikbare oppervlaktes: 138 m² - 155 m² - 151 m² - 160 m² - 210 m² - 193 m² - 451 m².Vrije hoogte van 5,5 m.Opbouw conform het lastenboek. Casco oplevering.Minimum 1 privatieve parkeerplaats inbegrepen.Oplevering voorzien Q3 2024.Kan ook dienst doen als investering.Prijzen vanaf 207.000€ + kosten + btw.Gelegen op een goede bereikbare ligging te Kortemark.Bijkomende info beschikbaar op kantoor.  - Wettelijke vermeldingen: EPB in opmaak - G-scores: A (ID: 31308280) - A (ID: 31308248) / P-scores: C (ID: 0752/00N000) - C (ID: 0766/00N000) - Sted. inf.: in aanvraag"
+            },
+            {
+                "place_id": 91401051,
+                "osm_type": "way",
+                "osm_id": 157050605,
+                "lat": "51.02268683388777",
+                "lon": "3.04513718072188",
+                "display_name": "Staatsbaan, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, België / Belgique / Belgien",
+                "road": [
+                    "Staatsbaan"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Kortemark"
+                ],
+                "town": [
+                    "not specified"
+                ],
+                "county": [
+                    "Diksmuide"
+                ],
+                "state": "West-Vlaanderen",
+                "postcode": "8610",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1,
+                "project_type": "Land",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "Not mentioned",
+                "price_from": "112,500.00 EUR",
+                "number_of_bathrooms": "Not applicable",
+                "number_of_bedrooms": "Not applicable",
+                "number_of_wcs": "Not applicable",
+                "parking": "Not mentioned",
+                "description": "This land property located in Zarren is a new construction available for sale. The interest rate for financing is 2.99% with a KBC rate. The total loan amount is 112,500.00 EUR, with a total loan cost of 149,060.83 EUR. This could be a lucrative investment opportunity for investors looking to develop or build on this land in a desirable location."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 91424591,
+            "osm_type": "way",
+            "osm_id": 157165722,
+            "lat": "51.02212777379902",
+            "lon": "3.0450244750300657",
+            "display_name": "Hoogledestraat, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, België / Belgique / Belgien",
+            "road": [
+                "Hoogledestraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Kortemark"
+            ],
+            "town": [
+                "not specified"
+            ],
+            "county": [
+                "Diksmuide"
+            ],
+            "state": "West-Vlaanderen",
+            "postcode": "8610",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 4
+        }
+    },
+    {
+        "id": 47,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 391413554,
+                "osm_type": "way",
+                "osm_id": 1064842122,
+                "lat": "50.4740822",
+                "lon": "4.2079809",
+                "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+                "road": [
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood": [
+                    "Cité du Beau Site"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "La Louvière"
+                ],
+                "county": [
+                    "La Louvière"
+                ],
+                "state": "Hainaut",
+                "postcode": "7100",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 19
+            }
+        ],
+        "nearest_address": {
+            "place_id": 391413554,
+            "osm_type": "way",
+            "osm_id": 1064842122,
+            "lat": "50.4740822",
+            "lon": "4.2079809",
+            "display_name": "Rue de la Semeuse, Cité du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvière, Hainaut, Wallonie, 7100, België / Belgique / Belgien",
+            "road": [
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood": [
+                "Cité du Beau Site"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "La Louvière"
+            ],
+            "county": [
+                "La Louvière"
+            ],
+            "state": "Hainaut",
+            "postcode": "7100",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 19
+        }
+    },
+    {
+        "id": 48,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 95796652,
+                "osm_type": "way",
+                "osm_id": 1250519414,
+                "lat": "50.81485470738834",
+                "lon": "4.319645663714008",
+                "display_name": "Rue Louise De Hem - Louise De Hemstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, België / Belgique / Belgien",
+                "road": [
+                    "Rue Louise De Hem",
+                    "Louise De Hemstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Forest",
+                    "Vorst"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1190",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 11
+            },
+            {
+                "place_id": 95764809,
+                "osm_type": "way",
+                "osm_id": 40533901,
+                "lat": "50.81489565913913",
+                "lon": "4.318874903072091",
+                "display_name": "Rue Saint-Denis - Sint-Denijsstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, België / Belgique / Belgien",
+                "road": [
+                    "Rue Saint-Denis",
+                    "Sint-Denijsstraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Forest",
+                    "Vorst"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1190",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            },
+            {
+                "place_id": 95738353,
+                "osm_type": "way",
+                "osm_id": 816907244,
+                "lat": "50.81462599300734",
+                "lon": "4.3198053375435705",
+                "display_name": "Rue Henri Kichka - Henri Kichkastraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, België / Belgique / Belgien",
+                "road": [
+                    "Rue Henri Kichka",
+                    "Henri Kichkastraat"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Forest",
+                    "Vorst"
+                ],
+                "county": [
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state": "not specified",
+                "postcode": "1190",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 4,
+                "project_type": "Apartments",
+                "delivery_date": "Not mentioned",
+                "investment_option": "Yes",
+                "available_sizes": "42+ m2",
+                "price_from": "€188,000",
+                "number_of_bathrooms": "Not mentioned",
+                "number_of_bedrooms": "1+",
+                "number_of_wcs": "Not mentioned",
+                "parking": "Not mentioned",
+                "description": "14 apartments in a new construction project located at Rue Henri Kichka - A311, 1190 Forest with potential for investment with multiple units available for sale."
+            }
+        ],
+        "nearest_address": {
+            "place_id": 95796652,
+            "osm_type": "way",
+            "osm_id": 1250519414,
+            "lat": "50.81485470738834",
+            "lon": "4.319645663714008",
+            "display_name": "Rue Louise De Hem - Louise De Hemstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, België / Belgique / Belgien",
+            "road": [
+                "Rue Louise De Hem",
+                "Louise De Hemstraat"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Forest",
+                "Vorst"
+            ],
+            "county": [
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state": "not specified",
+            "postcode": "1190",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 11
+        }
+    },
+    {
+        "id": 49,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 94138431,
+                "osm_type": "way",
+                "osm_id": 44956946,
+                "lat": "50.59317044955817",
+                "lon": "5.8585323712303365",
+                "display_name": "Rue du Marteau, Lambermont-Bas, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Marteau"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Lambermont-Bas"
+                ],
+                "town": [
+                    "Verviers"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 94438766,
+                "osm_type": "way",
+                "osm_id": 771689863,
+                "lat": "50.59332973403448",
+                "lon": "5.859382037954161",
+                "display_name": "Rue du Marteau, Lambermont-Bas, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+                "road": [
+                    "Rue du Marteau"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Lambermont-Bas"
+                ],
+                "town": [
+                    "Verviers"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            },
+            {
+                "place_id": 94454918,
+                "osm_type": "way",
+                "osm_id": 158406336,
+                "lat": "50.59322564292993",
+                "lon": "5.859524874748981",
+                "display_name": "Pont Saint-Laurent, Lambermont-Bas, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+                "road": [
+                    "Pont Saint-Laurent"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "Lambermont-Bas"
+                ],
+                "town": [
+                    "Verviers"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4800",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 1
+            }
+        ],
+        "nearest_address": {
+            "place_id": 94138431,
+            "osm_type": "way",
+            "osm_id": 44956946,
+            "lat": "50.59317044955817",
+            "lon": "5.8585323712303365",
+            "display_name": "Rue du Marteau, Lambermont-Bas, Verviers, Liège, Wallonie, 4800, België / Belgique / Belgien",
+            "road": [
+                "Rue du Marteau"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "Lambermont-Bas"
+            ],
+            "town": [
+                "Verviers"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4800",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 3
+        }
+    },
+    {
+        "id": 50,
+        "timestamp": 1736859394,
+        "all_addresses": [
+            {
+                "place_id": 106454461,
+                "osm_type": "way",
+                "osm_id": 24844256,
+                "lat": "50.718915790449635",
+                "lon": "6.0139166691559645",
+                "display_name": "Kahnweg, Kelmis, Kelmis - La Calamine, Verviers, Liège, Wallonie, 4720, België / Belgique / Belgien",
+                "road": [
+                    "Kahnweg"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kelmis",
+                    "La Calamine"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4720",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 3
+            },
+            {
+                "place_id": 106936924,
+                "osm_type": "way",
+                "osm_id": 24821079,
+                "lat": "50.718849995726",
+                "lon": "6.013588179196598",
+                "display_name": "Patronagestraße, Kelmis, Kelmis - La Calamine, Verviers, Liège, Wallonie, 4720, België / Belgique / Belgien",
+                "road": [
+                    "Patronagestraße"
+                ],
+                "neighbourhood": [
+                    "not specified"
+                ],
+                "village": [
+                    "not specified"
+                ],
+                "town": [
+                    "Kelmis",
+                    "La Calamine"
+                ],
+                "county": [
+                    "Verviers"
+                ],
+                "state": "Liège",
+                "postcode": "4720",
+                "country": "België / Belgique / Belgien",
+                "country_code": "be",
+                "Vertices": 2
+            }
+        ],
+        "nearest_address": {
+            "place_id": 106454461,
+            "osm_type": "way",
+            "osm_id": 24844256,
+            "lat": "50.718915790449635",
+            "lon": "6.0139166691559645",
+            "display_name": "Kahnweg, Kelmis, Kelmis - La Calamine, Verviers, Liège, Wallonie, 4720, België / Belgique / Belgien",
+            "road": [
+                "Kahnweg"
+            ],
+            "neighbourhood": [
+                "not specified"
+            ],
+            "village": [
+                "not specified"
+            ],
+            "town": [
+                "Kelmis",
+                "La Calamine"
+            ],
+            "county": [
+                "Verviers"
+            ],
+            "state": "Liège",
+            "postcode": "4720",
+            "country": "België / Belgique / Belgien",
+            "country_code": "be",
+            "Vertices": 3
+        }
+    }
+]

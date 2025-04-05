@@ -1,0 +1,4130 @@
+[
+    {
+        "id":1,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96320487,
+                "osm_type":"way",
+                "osm_id":347333600,
+                "lat":"50.85769502568546",
+                "lon":"4.408995978729384",
+                "display_name":"Chauss\u00e9e de Louvain - Leuvensesteenweg, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Chauss\u00e9e de Louvain",
+                    "Leuvensesteenweg"
+                ],
+                "neighbourhood":[
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Evere"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1140",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":8
+            },
+            {
+                "place_id":96647312,
+                "osm_type":"way",
+                "osm_id":245964287,
+                "lat":"50.85825727892255",
+                "lon":"4.409022798216148",
+                "display_name":"Avenue du Destrier - Strijdroslaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Avenue du Destrier",
+                    "Strijdroslaan"
+                ],
+                "neighbourhood":[
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Evere"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1140",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            }
+        ],
+        "nearest_address":{
+            "place_id":96320487,
+            "osm_type":"way",
+            "osm_id":347333600,
+            "lat":"50.85769502568546",
+            "lon":"4.408995978729384",
+            "display_name":"Chauss\u00e9e de Louvain - Leuvensesteenweg, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Chauss\u00e9e de Louvain",
+                "Leuvensesteenweg"
+            ],
+            "neighbourhood":[
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Evere"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1140",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":8
+        }
+    },
+    {
+        "id":2,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95445262,
+                "osm_type":"way",
+                "osm_id":23149324,
+                "lat":"50.74073229158428",
+                "lon":"4.250150925259275",
+                "display_name":"Kerkstraat, Eizingen, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kerkstraat"
+                ],
+                "neighbourhood":[
+                    "Eizingen"
+                ],
+                "village":[
+                    "Buizingen"
+                ],
+                "town":[
+                    "Halle"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1501",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            },
+            {
+                "place_id":96291525,
+                "osm_type":"way",
+                "osm_id":121410129,
+                "lat":"50.740547180441254",
+                "lon":"4.249936916473293",
+                "display_name":"Nachtegaalstraat, De Kluis, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Nachtegaalstraat"
+                ],
+                "neighbourhood":[
+                    "De Kluis"
+                ],
+                "village":[
+                    "Buizingen"
+                ],
+                "town":[
+                    "Halle"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1501",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":96291525,
+            "osm_type":"way",
+            "osm_id":121410129,
+            "lat":"50.740547180441254",
+            "lon":"4.249936916473293",
+            "display_name":"Nachtegaalstraat, De Kluis, Buizingen, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1501, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Nachtegaalstraat"
+            ],
+            "neighbourhood":[
+                "De Kluis"
+            ],
+            "village":[
+                "Buizingen"
+            ],
+            "town":[
+                "Halle"
+            ],
+            "county":[
+                "Halle-Vilvoorde"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"1501",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":3,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95066673,
+                "osm_type":"way",
+                "osm_id":1112472487,
+                "lat":"50.740589637220005",
+                "lon":"4.982548924297103",
+                "display_name":"Rue du Brasseur, Hampteau, Opheylissem, H\u00e9l\u00e9cine, Nivelles, Brabant wallon, Wallonie, 1357, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Brasseur"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Opheylissem"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Nivelles"
+                ],
+                "state":"Brabant wallon",
+                "postcode":"1357",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            }
+        ],
+        "nearest_address":{
+            "place_id":95066673,
+            "osm_type":"way",
+            "osm_id":1112472487,
+            "lat":"50.740589637220005",
+            "lon":"4.982548924297103",
+            "display_name":"Rue du Brasseur, Hampteau, Opheylissem, H\u00e9l\u00e9cine, Nivelles, Brabant wallon, Wallonie, 1357, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue du Brasseur"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Opheylissem"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Nivelles"
+            ],
+            "state":"Brabant wallon",
+            "postcode":"1357",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":4,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95614898,
+                "osm_type":"way",
+                "osm_id":241485727,
+                "lat":"50.85112465182563",
+                "lon":"4.403747722943547",
+                "display_name":"Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood":[
+                    "Mediapark"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1030",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            },
+            {
+                "place_id":96535905,
+                "osm_type":"way",
+                "osm_id":28939405,
+                "lat":"50.85131497966791",
+                "lon":"4.403318212398516",
+                "display_name":"Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood":[
+                    "Mediapark"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1030",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":96559623,
+                "osm_type":"way",
+                "osm_id":15805291,
+                "lat":"50.8510823",
+                "lon":"4.403581",
+                "display_name":"Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Colonel Bourg",
+                    "Kolonel Bourgstraat"
+                ],
+                "neighbourhood":[
+                    "Mediapark"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Schaerbeek",
+                    "Schaarbeek"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1030",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":95614898,
+            "osm_type":"way",
+            "osm_id":241485727,
+            "lat":"50.85112465182563",
+            "lon":"4.403747722943547",
+            "display_name":"Rue Colonel Bourg - Kolonel Bourgstraat, Mediapark, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue Colonel Bourg",
+                "Kolonel Bourgstraat"
+            ],
+            "neighbourhood":[
+                "Mediapark"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Schaerbeek",
+                "Schaarbeek"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1030",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":5,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":93317412,
+                "osm_type":"way",
+                "osm_id":250518611,
+                "lat":"50.81061179197277",
+                "lon":"3.072475648918763",
+                "display_name":"Ieperstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Ieperstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Geluwe"
+                ],
+                "town":[
+                    "Wervik"
+                ],
+                "county":[
+                    "Ieper"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8940",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            },
+            {
+                "place_id":93366742,
+                "osm_type":"way",
+                "osm_id":841781912,
+                "lat":"50.810935244245954",
+                "lon":"3.0728040773564946",
+                "display_name":"Kloosterstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kloosterstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Geluwe"
+                ],
+                "town":[
+                    "Wervik"
+                ],
+                "county":[
+                    "Ieper"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8940",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":93317412,
+            "osm_type":"way",
+            "osm_id":250518611,
+            "lat":"50.81061179197277",
+            "lon":"3.072475648918763",
+            "display_name":"Ieperstraat, Geluwe, Wervik, Ieper, West-Vlaanderen, Vlaanderen, 8940, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Ieperstraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Geluwe"
+            ],
+            "town":[
+                "Wervik"
+            ],
+            "county":[
+                "Ieper"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8940",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":4
+        }
+    },
+    {
+        "id":6,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94636361,
+                "osm_type":"way",
+                "osm_id":1288116750,
+                "lat":"50.65320491189287",
+                "lon":"5.610462635431114",
+                "display_name":"Chemin des Confluences, Droixhe, Bressoux, Li\u00e8ge, Wallonie, 4000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Chemin des Confluences"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Bressoux"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Li\u00e8ge"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":94890017,
+                "osm_type":"way",
+                "osm_id":1288116764,
+                "lat":"50.652758463117884",
+                "lon":"5.610966124424194",
+                "display_name":"Chemin de la Canop\u00e9e, Droixhe, Bressoux, Li\u00e8ge, Wallonie, 4000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Chemin de la Canop\u00e9e"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Bressoux"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Li\u00e8ge"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":94636361,
+            "osm_type":"way",
+            "osm_id":1288116750,
+            "lat":"50.65320491189287",
+            "lon":"5.610462635431114",
+            "display_name":"Chemin des Confluences, Droixhe, Bressoux, Li\u00e8ge, Wallonie, 4000, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Chemin des Confluences"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Bressoux"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Li\u00e8ge"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4000",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":3
+        }
+    },
+    {
+        "id":7,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":109085580,
+                "osm_type":"way",
+                "osm_id":24832334,
+                "lat":"49.68552940159747",
+                "lon":"5.804409082145479",
+                "display_name":"Rue de Neufch\u00e2teau, Arlon, Luxembourg, Wallonie, 6700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de Neufch\u00e2teau"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Arlon"
+                ],
+                "county":[
+                    "Arlon"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":7
+            },
+            {
+                "place_id":107798886,
+                "osm_type":"way",
+                "osm_id":305544946,
+                "lat":"49.68562602223789",
+                "lon":"5.804830652781752",
+                "display_name":"Rue d'Alba, Arlon, Luxembourg, Wallonie, 6700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue d'Alba"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Arlon"
+                ],
+                "county":[
+                    "Arlon"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            }
+        ],
+        "nearest_address":{
+            "place_id":109085580,
+            "osm_type":"way",
+            "osm_id":24832334,
+            "lat":"49.68552940159747",
+            "lon":"5.804409082145479",
+            "display_name":"Rue de Neufch\u00e2teau, Arlon, Luxembourg, Wallonie, 6700, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de Neufch\u00e2teau"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Arlon"
+            ],
+            "county":[
+                "Arlon"
+            ],
+            "state":"Luxembourg",
+            "postcode":"6700",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":7
+        }
+    },
+    {
+        "id":8,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":97211494,
+                "osm_type":"way",
+                "osm_id":1037491641,
+                "lat":"51.014953296130855",
+                "lon":"4.481555201734334",
+                "display_name":"Mechelen, Antwerpen, Vlaanderen, 2800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Mechelen"
+                ],
+                "county":[
+                    "Mechelen"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            },
+            {
+                "place_id":96526122,
+                "osm_type":"way",
+                "osm_id":551932789,
+                "lat":"51.015220913998526",
+                "lon":"4.481166294691981",
+                "display_name":"Tangent, Mechelen, Antwerpen, Vlaanderen, 2800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Tangent"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Mechelen"
+                ],
+                "county":[
+                    "Mechelen"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":96526122,
+            "osm_type":"way",
+            "osm_id":551932789,
+            "lat":"51.015220913998526",
+            "lon":"4.481166294691981",
+            "display_name":"Tangent, Mechelen, Antwerpen, Vlaanderen, 2800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Tangent"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Mechelen"
+            ],
+            "county":[
+                "Mechelen"
+            ],
+            "state":"Antwerpen",
+            "postcode":"2800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":9,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95086794,
+                "osm_type":"way",
+                "osm_id":87304285,
+                "lat":"50.87958449942913",
+                "lon":"4.729476445652523",
+                "display_name":"Prins-Regentplein, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Prins-Regentplein"
+                ],
+                "neighbourhood":[
+                    "Lolanden"
+                ],
+                "village":[
+                    "Kessel-Lo"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Leuven"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"3010",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":95979332,
+                "osm_type":"way",
+                "osm_id":31058513,
+                "lat":"50.8793384",
+                "lon":"4.7299807",
+                "display_name":"Partisanenstraat, Blauwput, Benedenlo, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Partisanenstraat"
+                ],
+                "neighbourhood":[
+                    "Blauwput"
+                ],
+                "village":[
+                    "Kessel-Lo"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Leuven"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"3010",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            }
+        ],
+        "nearest_address":{
+            "place_id":95979332,
+            "osm_type":"way",
+            "osm_id":31058513,
+            "lat":"50.8793384",
+            "lon":"4.7299807",
+            "display_name":"Partisanenstraat, Blauwput, Benedenlo, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Partisanenstraat"
+            ],
+            "neighbourhood":[
+                "Blauwput"
+            ],
+            "village":[
+                "Kessel-Lo"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Leuven"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"3010",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":4
+        }
+    },
+    {
+        "id":10,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":92569188,
+                "osm_type":"way",
+                "osm_id":7219878,
+                "lat":"51.03307307002912",
+                "lon":"3.7114285071785615",
+                "display_name":"Ganzendries, Stationsbuurt Zuid, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Ganzendries"
+                ],
+                "neighbourhood":[
+                    "Stationsbuurt Zuid"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Gent"
+                ],
+                "state":"Oost-Vlaanderen",
+                "postcode":"9000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            }
+        ],
+        "nearest_address":{
+            "place_id":92569188,
+            "osm_type":"way",
+            "osm_id":7219878,
+            "lat":"51.03307307002912",
+            "lon":"3.7114285071785615",
+            "display_name":"Ganzendries, Stationsbuurt Zuid, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Ganzendries"
+            ],
+            "neighbourhood":[
+                "Stationsbuurt Zuid"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Gent"
+            ],
+            "state":"Oost-Vlaanderen",
+            "postcode":"9000",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":11,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96132277,
+                "osm_type":"way",
+                "osm_id":887541925,
+                "lat":"50.56226069747914",
+                "lon":"4.161121050804668",
+                "display_name":"Clos de la Scierie, \u00c9caussinnes, \u00c9caussinnes-d'Enghien, \u00c9caussinnes, Soignies, Hainaut, Wallonie, 7190, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Clos de la Scierie"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "\u00c9caussinnes-d'Enghien"
+                ],
+                "town":[
+                    "\u00c9caussinnes"
+                ],
+                "county":[
+                    "Soignies"
+                ],
+                "state":"Hainaut",
+                "postcode":"7190",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":96132277,
+            "osm_type":"way",
+            "osm_id":887541925,
+            "lat":"50.56226069747914",
+            "lon":"4.161121050804668",
+            "display_name":"Clos de la Scierie, \u00c9caussinnes, \u00c9caussinnes-d'Enghien, \u00c9caussinnes, Soignies, Hainaut, Wallonie, 7190, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Clos de la Scierie"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "\u00c9caussinnes-d'Enghien"
+            ],
+            "town":[
+                "\u00c9caussinnes"
+            ],
+            "county":[
+                "Soignies"
+            ],
+            "state":"Hainaut",
+            "postcode":"7190",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":12,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":107399647,
+                "osm_type":"way",
+                "osm_id":1301493441,
+                "lat":"50.63361930348302",
+                "lon":"6.029181323361731",
+                "display_name":"Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Eupen"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":107242349,
+                "osm_type":"way",
+                "osm_id":1301493466,
+                "lat":"50.63363039999704",
+                "lon":"6.029525622127562",
+                "display_name":"Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Eupen"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":107342331,
+                "osm_type":"way",
+                "osm_id":1162397964,
+                "lat":"50.633401803154804",
+                "lon":"6.029245595860846",
+                "display_name":"Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kneippweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Eupen"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            }
+        ],
+        "nearest_address":{
+            "place_id":107399647,
+            "osm_type":"way",
+            "osm_id":1301493441,
+            "lat":"50.63361930348302",
+            "lon":"6.029181323361731",
+            "display_name":"Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "not specified"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Eupen"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4700",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":2
+        }
+    },
+    {
+        "id":13,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94654225,
+                "osm_type":"way",
+                "osm_id":1066918346,
+                "lat":"50.924670219016654",
+                "lon":"4.680866612542215",
+                "display_name":"D' Hoogvorstdreef, Herent, Leuven, Vlaams-Brabant, Vlaanderen, 3020, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "D' Hoogvorstdreef"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Herent"
+                ],
+                "county":[
+                    "Leuven"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"3020",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":94654225,
+            "osm_type":"way",
+            "osm_id":1066918346,
+            "lat":"50.924670219016654",
+            "lon":"4.680866612542215",
+            "display_name":"D' Hoogvorstdreef, Herent, Leuven, Vlaams-Brabant, Vlaanderen, 3020, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "D' Hoogvorstdreef"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Herent"
+            ],
+            "county":[
+                "Leuven"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"3020",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":14,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":395998533,
+                "osm_type":"way",
+                "osm_id":1348455224,
+                "lat":"50.846460762902616",
+                "lon":"4.339723929361446",
+                "display_name":"Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood":[
+                    "Dansaert"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            },
+            {
+                "place_id":96475458,
+                "osm_type":"way",
+                "osm_id":13252060,
+                "lat":"50.846200832014574",
+                "lon":"4.339582994177002",
+                "display_name":"Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood":[
+                    "Dansaert"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            },
+            {
+                "place_id":395998532,
+                "osm_type":"way",
+                "osm_id":1348455223,
+                "lat":"50.846231592888344",
+                "lon":"4.339599510211724",
+                "display_name":"Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Senne",
+                    "Zennestraat"
+                ],
+                "neighbourhood":[
+                    "Dansaert"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":395998533,
+            "osm_type":"way",
+            "osm_id":1348455224,
+            "lat":"50.846460762902616",
+            "lon":"4.339723929361446",
+            "display_name":"Rue de la Senne - Zennestraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de la Senne",
+                "Zennestraat"
+            ],
+            "neighbourhood":[
+                "Dansaert"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1000",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":15,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96139209,
+                "osm_type":"way",
+                "osm_id":23113153,
+                "lat":"50.90864681240463",
+                "lon":"4.367866247230214",
+                "display_name":"Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Keelstraat"
+                ],
+                "neighbourhood":[
+                    "Het Voor"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Vilvoorde"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":7
+            }
+        ],
+        "nearest_address":{
+            "place_id":96139209,
+            "osm_type":"way",
+            "osm_id":23113153,
+            "lat":"50.90864681240463",
+            "lon":"4.367866247230214",
+            "display_name":"Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Keelstraat"
+            ],
+            "neighbourhood":[
+                "Het Voor"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Vilvoorde"
+            ],
+            "county":[
+                "Halle-Vilvoorde"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"1800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":7
+        }
+    },
+    {
+        "id":16,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94463585,
+                "osm_type":"way",
+                "osm_id":50340959,
+                "lat":"50.571540527212385",
+                "lon":"5.838885307412967",
+                "display_name":"Chemin du Haras, Sur G\u00e9rardh\u00e9, Ensival, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Chemin du Haras"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Ensival"
+                ],
+                "town":[
+                    "Verviers"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":94463585,
+            "osm_type":"way",
+            "osm_id":50340959,
+            "lat":"50.571540527212385",
+            "lon":"5.838885307412967",
+            "display_name":"Chemin du Haras, Sur G\u00e9rardh\u00e9, Ensival, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Chemin du Haras"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Ensival"
+            ],
+            "town":[
+                "Verviers"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":17,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":391245093,
+                "osm_type":"way",
+                "osm_id":1064842122,
+                "lat":"50.47478749566496",
+                "lon":"4.208782071185456",
+                "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood":[
+                    "Cit\u00e9 du Beau Site"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "La Louvi\u00e8re"
+                ],
+                "county":[
+                    "La Louvi\u00e8re"
+                ],
+                "state":"Hainaut",
+                "postcode":"7100",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":21
+            }
+        ],
+        "nearest_address":{
+            "place_id":391245093,
+            "osm_type":"way",
+            "osm_id":1064842122,
+            "lat":"50.47478749566496",
+            "lon":"4.208782071185456",
+            "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood":[
+                "Cit\u00e9 du Beau Site"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "La Louvi\u00e8re"
+            ],
+            "county":[
+                "La Louvi\u00e8re"
+            ],
+            "state":"Hainaut",
+            "postcode":"7100",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":21
+        }
+    },
+    {
+        "id":18,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":92636410,
+                "osm_type":"way",
+                "osm_id":502940239,
+                "lat":"50.89246189463293",
+                "lon":"3.334807450098187",
+                "display_name":"Bavikhoofsestraat, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Bavikhoofsestraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Ooigem"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Tielt"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8710",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":12
+            },
+            {
+                "place_id":92441554,
+                "osm_type":"way",
+                "osm_id":111262145,
+                "lat":"50.89322660015726",
+                "lon":"3.334259004896194",
+                "display_name":"Voetweg, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Voetweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Ooigem"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Tielt"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8710",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":92636410,
+            "osm_type":"way",
+            "osm_id":502940239,
+            "lat":"50.89246189463293",
+            "lon":"3.334807450098187",
+            "display_name":"Bavikhoofsestraat, Ooigem, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Bavikhoofsestraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Ooigem"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Tielt"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8710",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":12
+        }
+    },
+    {
+        "id":19,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":93639954,
+                "osm_type":"way",
+                "osm_id":8043152,
+                "lat":"50.95166678043536",
+                "lon":"3.122178744551943",
+                "display_name":"Hugo Verrieststraat, Beekkwartier, Roeselare, West-Vlaanderen, Vlaanderen, 8800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Hugo Verrieststraat"
+                ],
+                "neighbourhood":[
+                    "Beekkwartier"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Roeselare"
+                ],
+                "county":[
+                    "Roeselare"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":7
+            }
+        ],
+        "nearest_address":{
+            "place_id":93639954,
+            "osm_type":"way",
+            "osm_id":8043152,
+            "lat":"50.95166678043536",
+            "lon":"3.122178744551943",
+            "display_name":"Hugo Verrieststraat, Beekkwartier, Roeselare, West-Vlaanderen, Vlaanderen, 8800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Hugo Verrieststraat"
+            ],
+            "neighbourhood":[
+                "Beekkwartier"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Roeselare"
+            ],
+            "county":[
+                "Roeselare"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":7
+        }
+    },
+    {
+        "id":20,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95972416,
+                "osm_type":"way",
+                "osm_id":35682154,
+                "lat":"50.858109776931485",
+                "lon":"4.3012071552856",
+                "display_name":"Rue du Grand-Pr\u00e9 - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Grand-Pr\u00e9",
+                    "Weilandstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Berchem-Sainte-Agathe",
+                    "Sint-Agatha-Berchem"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1082",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":95679736,
+                "osm_type":"way",
+                "osm_id":1320184537,
+                "lat":"50.8580928",
+                "lon":"4.301041",
+                "display_name":"Rue du Grand-Pr\u00e9 - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Grand-Pr\u00e9",
+                    "Weilandstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Berchem-Sainte-Agathe",
+                    "Sint-Agatha-Berchem"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1082",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            }
+        ],
+        "nearest_address":{
+            "place_id":95679736,
+            "osm_type":"way",
+            "osm_id":1320184537,
+            "lat":"50.8580928",
+            "lon":"4.301041",
+            "display_name":"Rue du Grand-Pr\u00e9 - Weilandstraat, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue du Grand-Pr\u00e9",
+                "Weilandstraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Berchem-Sainte-Agathe",
+                "Sint-Agatha-Berchem"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1082",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":21,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":91967608,
+                "osm_type":"way",
+                "osm_id":124842645,
+                "lat":"51.210626087150054",
+                "lon":"3.211178430522134",
+                "display_name":"Bevrijdingslaan, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Bevrijdingslaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Sint-Andries"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brugge"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8200",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            },
+            {
+                "place_id":91536503,
+                "osm_type":"way",
+                "osm_id":1247333722,
+                "lat":"51.210139582528946",
+                "lon":"3.2111960133745456",
+                "display_name":"Peter Benoitlaan, Lange Vesting, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Peter Benoitlaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Sint-Andries"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brugge"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8200",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":12
+            }
+        ],
+        "nearest_address":{
+            "place_id":91536503,
+            "osm_type":"way",
+            "osm_id":1247333722,
+            "lat":"51.210139582528946",
+            "lon":"3.2111960133745456",
+            "display_name":"Peter Benoitlaan, Lange Vesting, Sint-Andries, Brugge, West-Vlaanderen, Vlaanderen, 8200, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Peter Benoitlaan"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Sint-Andries"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Brugge"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8200",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":12
+        }
+    },
+    {
+        "id":22,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94463585,
+                "osm_type":"way",
+                "osm_id":50340959,
+                "lat":"50.57165020052447",
+                "lon":"5.838954720254597",
+                "display_name":"Chemin du Haras, Sur G\u00e9rardh\u00e9, Ensival, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Chemin du Haras"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Ensival"
+                ],
+                "town":[
+                    "Verviers"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":94463585,
+            "osm_type":"way",
+            "osm_id":50340959,
+            "lat":"50.57165020052447",
+            "lon":"5.838954720254597",
+            "display_name":"Chemin du Haras, Sur G\u00e9rardh\u00e9, Ensival, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Chemin du Haras"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Ensival"
+            ],
+            "town":[
+                "Verviers"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":23,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96524343,
+                "osm_type":"way",
+                "osm_id":41853478,
+                "lat":"50.86183961106769",
+                "lon":"4.414210169399105",
+                "display_name":"Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Avenue Franz Guillaume",
+                    "Franz Guillaumelaan"
+                ],
+                "neighbourhood":[
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Evere"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1140",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":15
+            }
+        ],
+        "nearest_address":{
+            "place_id":96524343,
+            "osm_type":"way",
+            "osm_id":41853478,
+            "lat":"50.86183961106769",
+            "lon":"4.414210169399105",
+            "display_name":"Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Avenue Franz Guillaume",
+                "Franz Guillaumelaan"
+            ],
+            "neighbourhood":[
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Evere"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1140",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":15
+        }
+    },
+    {
+        "id":24,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95557542,
+                "osm_type":"way",
+                "osm_id":1158735946,
+                "lat":"50.99260821115642",
+                "lon":"5.0477141896046",
+                "display_name":"Schaluinveld, Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Schaluinveld"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Diest"
+                ],
+                "county":[
+                    "Leuven"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"3290",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":95600493,
+                "osm_type":"way",
+                "osm_id":1017099719,
+                "lat":"50.99195906533144",
+                "lon":"5.047349620456073",
+                "display_name":"Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Diest"
+                ],
+                "county":[
+                    "Leuven"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"3290",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            }
+        ],
+        "nearest_address":{
+            "place_id":95600493,
+            "osm_type":"way",
+            "osm_id":1017099719,
+            "lat":"50.99195906533144",
+            "lon":"5.047349620456073",
+            "display_name":"Diest, Leuven, Vlaams-Brabant, Vlaanderen, 3290, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "not specified"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Diest"
+            ],
+            "county":[
+                "Leuven"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"3290",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":4
+        }
+    },
+    {
+        "id":25,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96524343,
+                "osm_type":"way",
+                "osm_id":41853478,
+                "lat":"50.86165265724738",
+                "lon":"4.412969754366991",
+                "display_name":"Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Avenue Franz Guillaume",
+                    "Franz Guillaumelaan"
+                ],
+                "neighbourhood":[
+                    "Terneyveld",
+                    "Tornooiveld"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Evere"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1140",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":13
+            }
+        ],
+        "nearest_address":{
+            "place_id":96524343,
+            "osm_type":"way",
+            "osm_id":41853478,
+            "lat":"50.86165265724738",
+            "lon":"4.412969754366991",
+            "display_name":"Avenue Franz Guillaume - Franz Guillaumelaan, Terneyveld - Tornooiveld, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Avenue Franz Guillaume",
+                "Franz Guillaumelaan"
+            ],
+            "neighbourhood":[
+                "Terneyveld",
+                "Tornooiveld"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Evere"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1140",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":13
+        }
+    },
+    {
+        "id":26,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":92146604,
+                "osm_type":"way",
+                "osm_id":1295232959,
+                "lat":"50.9100175286727",
+                "lon":"3.3909402390541894",
+                "display_name":"Vlasstraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Vlasstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Sint-Baafs-Vijve"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Tielt"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8710",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            },
+            {
+                "place_id":92725908,
+                "osm_type":"way",
+                "osm_id":111545644,
+                "lat":"50.90988721283071",
+                "lon":"3.3908704287925433",
+                "display_name":"Sint-Bavostraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Sint-Bavostraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Sint-Baafs-Vijve"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Tielt"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8710",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":92146604,
+            "osm_type":"way",
+            "osm_id":1295232959,
+            "lat":"50.9100175286727",
+            "lon":"3.3909402390541894",
+            "display_name":"Vlasstraat, Sint-Baafs-Vijve, Wielsbeke, Tielt, West-Vlaanderen, Vlaanderen, 8710, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Vlasstraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Sint-Baafs-Vijve"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Tielt"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8710",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":27,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":97237267,
+                "osm_type":"way",
+                "osm_id":971427399,
+                "lat":"51.24118744298134",
+                "lon":"4.968585174082372",
+                "display_name":"Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Binnenpad"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            },
+            {
+                "place_id":97236428,
+                "osm_type":"way",
+                "osm_id":1248993991,
+                "lat":"51.24169891429402",
+                "lon":"4.968814796412487",
+                "display_name":"Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Karekietstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":97497491,
+                "osm_type":"way",
+                "osm_id":237850320,
+                "lat":"51.2414551",
+                "lon":"4.9684861",
+                "display_name":"Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Binnenpad"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            }
+        ],
+        "nearest_address":{
+            "place_id":97237267,
+            "osm_type":"way",
+            "osm_id":971427399,
+            "lat":"51.24118744298134",
+            "lon":"4.968585174082372",
+            "display_name":"Binnenpad, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Binnenpad"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Kasterlee"
+            ],
+            "county":[
+                "Turnhout"
+            ],
+            "state":"Antwerpen",
+            "postcode":"2460",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":28,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95491441,
+                "osm_type":"way",
+                "osm_id":20612264,
+                "lat":"50.986264818655044",
+                "lon":"5.696665369837814",
+                "display_name":"Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kruindersweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Eisden"
+                ],
+                "town":[
+                    "Maasmechelen"
+                ],
+                "county":[
+                    "Tongeren"
+                ],
+                "state":"Limburg",
+                "postcode":"3630",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":95491441,
+            "osm_type":"way",
+            "osm_id":20612264,
+            "lat":"50.986264818655044",
+            "lon":"5.696665369837814",
+            "display_name":"Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Kruindersweg"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Eisden"
+            ],
+            "town":[
+                "Maasmechelen"
+            ],
+            "county":[
+                "Tongeren"
+            ],
+            "state":"Limburg",
+            "postcode":"3630",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":29,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":391245093,
+                "osm_type":"way",
+                "osm_id":1064842122,
+                "lat":"50.47451837793457",
+                "lon":"4.208476370495955",
+                "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood":[
+                    "Cit\u00e9 du Beau Site"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "La Louvi\u00e8re"
+                ],
+                "county":[
+                    "La Louvi\u00e8re"
+                ],
+                "state":"Hainaut",
+                "postcode":"7100",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":13
+            }
+        ],
+        "nearest_address":{
+            "place_id":391245093,
+            "osm_type":"way",
+            "osm_id":1064842122,
+            "lat":"50.47451837793457",
+            "lon":"4.208476370495955",
+            "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood":[
+                "Cit\u00e9 du Beau Site"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "La Louvi\u00e8re"
+            ],
+            "county":[
+                "La Louvi\u00e8re"
+            ],
+            "state":"Hainaut",
+            "postcode":"7100",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":13
+        }
+    },
+    {
+        "id":30,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95491441,
+                "osm_type":"way",
+                "osm_id":20612264,
+                "lat":"50.98624704989967",
+                "lon":"5.696810011778374",
+                "display_name":"Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kruindersweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Eisden"
+                ],
+                "town":[
+                    "Maasmechelen"
+                ],
+                "county":[
+                    "Tongeren"
+                ],
+                "state":"Limburg",
+                "postcode":"3630",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":12
+            }
+        ],
+        "nearest_address":{
+            "place_id":95491441,
+            "osm_type":"way",
+            "osm_id":20612264,
+            "lat":"50.98624704989967",
+            "lon":"5.696810011778374",
+            "display_name":"Kruindersweg, Eisden, Maasmechelen, Tongeren, Limburg, Vlaanderen, 3630, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Kruindersweg"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Eisden"
+            ],
+            "town":[
+                "Maasmechelen"
+            ],
+            "county":[
+                "Tongeren"
+            ],
+            "state":"Limburg",
+            "postcode":"3630",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":12
+        }
+    },
+    {
+        "id":31,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96582773,
+                "osm_type":"way",
+                "osm_id":8250705,
+                "lat":"50.84816598952667",
+                "lon":"4.36082713203927",
+                "display_name":"Rue du Bois Sauvage - Wildewoudstraat, Quartier de la Cath\u00e9drale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Bois Sauvage",
+                    "Wildewoudstraat"
+                ],
+                "neighbourhood":[
+                    "Quartier de la Cath\u00e9drale"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":96739356,
+                "osm_type":"way",
+                "osm_id":15064614,
+                "lat":"50.84841321423336",
+                "lon":"4.360840918057645",
+                "display_name":"Rue de Ligne - de Lignestraat, Quartier de la Cath\u00e9drale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de Ligne",
+                    "de Lignestraat"
+                ],
+                "neighbourhood":[
+                    "Quartier de la Cath\u00e9drale"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1000",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":11
+            }
+        ],
+        "nearest_address":{
+            "place_id":96739356,
+            "osm_type":"way",
+            "osm_id":15064614,
+            "lat":"50.84841321423336",
+            "lon":"4.360840918057645",
+            "display_name":"Rue de Ligne - de Lignestraat, Quartier de la Cath\u00e9drale, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de Ligne",
+                "de Lignestraat"
+            ],
+            "neighbourhood":[
+                "Quartier de la Cath\u00e9drale"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1000",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":11
+        }
+    },
+    {
+        "id":32,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":92424689,
+                "osm_type":"way",
+                "osm_id":25794700,
+                "lat":"51.23306055187222",
+                "lon":"3.7454852295059253",
+                "display_name":"Kapellestraat, Kapelle, Assenede, Eeklo, Oost-Vlaanderen, Vlaanderen, 9960, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kapellestraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Assenede"
+                ],
+                "county":[
+                    "Eeklo"
+                ],
+                "state":"Oost-Vlaanderen",
+                "postcode":"9960",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":92424689,
+            "osm_type":"way",
+            "osm_id":25794700,
+            "lat":"51.23306055187222",
+            "lon":"3.7454852295059253",
+            "display_name":"Kapellestraat, Kapelle, Assenede, Eeklo, Oost-Vlaanderen, Vlaanderen, 9960, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Kapellestraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Assenede"
+            ],
+            "county":[
+                "Eeklo"
+            ],
+            "state":"Oost-Vlaanderen",
+            "postcode":"9960",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":33,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":97475098,
+                "osm_type":"way",
+                "osm_id":70086682,
+                "lat":"51.241820459163584",
+                "lon":"4.969330807278993",
+                "display_name":"Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Karekietstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":97472573,
+                "osm_type":"way",
+                "osm_id":971427398,
+                "lat":"51.2412552",
+                "lon":"4.9700345",
+                "display_name":"Monseigneur Miertsstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Monseigneur Miertsstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            },
+            {
+                "place_id":96119352,
+                "osm_type":"way",
+                "osm_id":971427397,
+                "lat":"51.24101537547266",
+                "lon":"4.96963756417947",
+                "display_name":"Retiesebaan, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Retiesebaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kasterlee"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2460",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            }
+        ],
+        "nearest_address":{
+            "place_id":97475098,
+            "osm_type":"way",
+            "osm_id":70086682,
+            "lat":"51.241820459163584",
+            "lon":"4.969330807278993",
+            "display_name":"Karekietstraat, Kasterlee, Turnhout, Antwerpen, Vlaanderen, 2460, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Karekietstraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Kasterlee"
+            ],
+            "county":[
+                "Turnhout"
+            ],
+            "state":"Antwerpen",
+            "postcode":"2460",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":3
+        }
+    },
+    {
+        "id":34,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":93991596,
+                "osm_type":"way",
+                "osm_id":458894805,
+                "lat":"50.45619566275346",
+                "lon":"4.158418561244245",
+                "display_name":"Rue du Four \u00e0 Chaux, Cit\u00e9 de Saint-Vaast, Tierne Mayette, Saint-Vaast, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Four \u00e0 Chaux"
+                ],
+                "neighbourhood":[
+                    "Cit\u00e9 de Saint-Vaast"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "La Louvi\u00e8re"
+                ],
+                "county":[
+                    "La Louvi\u00e8re"
+                ],
+                "state":"Hainaut",
+                "postcode":"7100",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":93991596,
+            "osm_type":"way",
+            "osm_id":458894805,
+            "lat":"50.45619566275346",
+            "lon":"4.158418561244245",
+            "display_name":"Rue du Four \u00e0 Chaux, Cit\u00e9 de Saint-Vaast, Tierne Mayette, Saint-Vaast, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue du Four \u00e0 Chaux"
+            ],
+            "neighbourhood":[
+                "Cit\u00e9 de Saint-Vaast"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "La Louvi\u00e8re"
+            ],
+            "county":[
+                "La Louvi\u00e8re"
+            ],
+            "state":"Hainaut",
+            "postcode":"7100",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":35,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94533535,
+                "osm_type":"way",
+                "osm_id":68424275,
+                "lat":"50.61291059657306",
+                "lon":"5.618895724876333",
+                "display_name":"Rue S\u0153ur Lutgardis, Lhoneux, Ch\u00ean\u00e9e, Li\u00e8ge, Wallonie, 4032, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue S\u0153ur Lutgardis"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Ch\u00ean\u00e9e"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Li\u00e8ge"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4032",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":94533535,
+            "osm_type":"way",
+            "osm_id":68424275,
+            "lat":"50.61291059657306",
+            "lon":"5.618895724876333",
+            "display_name":"Rue S\u0153ur Lutgardis, Lhoneux, Ch\u00ean\u00e9e, Li\u00e8ge, Wallonie, 4032, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue S\u0153ur Lutgardis"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Ch\u00ean\u00e9e"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Li\u00e8ge"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4032",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":36,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":108900827,
+                "osm_type":"way",
+                "osm_id":984084803,
+                "lat":"49.69794170060312",
+                "lon":"5.308598556849826",
+                "display_name":"Rue G\u00e9n\u00e9raux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue G\u00e9n\u00e9raux Cuvelier"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Florenville"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Virton"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6820",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":109662799,
+                "osm_type":"way",
+                "osm_id":363568232,
+                "lat":"49.69792361267926",
+                "lon":"5.308767424446045",
+                "display_name":"Rue G\u00e9n\u00e9raux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue G\u00e9n\u00e9raux Cuvelier"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Florenville"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Virton"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6820",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            }
+        ],
+        "nearest_address":{
+            "place_id":109662799,
+            "osm_type":"way",
+            "osm_id":363568232,
+            "lat":"49.69792361267926",
+            "lon":"5.308767424446045",
+            "display_name":"Rue G\u00e9n\u00e9raux Cuvelier, Florenville, Virton, Luxembourg, Wallonie, 6820, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue G\u00e9n\u00e9raux Cuvelier"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Florenville"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Virton"
+            ],
+            "state":"Luxembourg",
+            "postcode":"6820",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":37,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":107779259,
+                "osm_type":"way",
+                "osm_id":339814112,
+                "lat":"49.8359468",
+                "lon":"5.7361935",
+                "display_name":"Au Puits de la Mine, Radelange, Martelange, Arlon, Luxembourg, Wallonie, 6630, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Au Puits de la Mine"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Radelange"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Arlon"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6630",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":6
+            }
+        ],
+        "nearest_address":{
+            "place_id":107779259,
+            "osm_type":"way",
+            "osm_id":339814112,
+            "lat":"49.8359468",
+            "lon":"5.7361935",
+            "display_name":"Au Puits de la Mine, Radelange, Martelange, Arlon, Luxembourg, Wallonie, 6630, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Au Puits de la Mine"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Radelange"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Arlon"
+            ],
+            "state":"Luxembourg",
+            "postcode":"6630",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":6
+        }
+    },
+    {
+        "id":38,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96360712,
+                "osm_type":"way",
+                "osm_id":38366002,
+                "lat":"51.08817265198389",
+                "lon":"4.9189907384200415",
+                "display_name":"Grote Markt, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Grote Markt"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Westerlo"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2260",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":24
+            },
+            {
+                "place_id":96102338,
+                "osm_type":"way",
+                "osm_id":24879125,
+                "lat":"51.08837853126342",
+                "lon":"4.919805309635902",
+                "display_name":"Rietstraat, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rietstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Westerlo"
+                ],
+                "county":[
+                    "Turnhout"
+                ],
+                "state":"Antwerpen",
+                "postcode":"2260",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":96360712,
+            "osm_type":"way",
+            "osm_id":38366002,
+            "lat":"51.08817265198389",
+            "lon":"4.9189907384200415",
+            "display_name":"Grote Markt, Westerlo, Turnhout, Antwerpen, Vlaanderen, 2260, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Grote Markt"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Westerlo"
+            ],
+            "county":[
+                "Turnhout"
+            ],
+            "state":"Antwerpen",
+            "postcode":"2260",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":24
+        }
+    },
+    {
+        "id":39,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":109128327,
+                "osm_type":"way",
+                "osm_id":1284929436,
+                "lat":"49.674162",
+                "lon":"5.7938579",
+                "display_name":"Rue des Cigognes, Heinsch, Arlon, Luxembourg, Wallonie, 6700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue des Cigognes"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Heinsch"
+                ],
+                "town":[
+                    "Arlon"
+                ],
+                "county":[
+                    "Arlon"
+                ],
+                "state":"Luxembourg",
+                "postcode":"6700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":9
+            }
+        ],
+        "nearest_address":{
+            "place_id":109128327,
+            "osm_type":"way",
+            "osm_id":1284929436,
+            "lat":"49.674162",
+            "lon":"5.7938579",
+            "display_name":"Rue des Cigognes, Heinsch, Arlon, Luxembourg, Wallonie, 6700, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue des Cigognes"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Heinsch"
+            ],
+            "town":[
+                "Arlon"
+            ],
+            "county":[
+                "Arlon"
+            ],
+            "state":"Luxembourg",
+            "postcode":"6700",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":9
+        }
+    },
+    {
+        "id":40,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95314925,
+                "osm_type":"way",
+                "osm_id":25423595,
+                "lat":"50.83324295708655",
+                "lon":"4.31490831009844",
+                "display_name":"Rue de Biestebroeck - Biestebroekstraat, Petite \u00cele - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de Biestebroeck",
+                    "Biestebroekstraat"
+                ],
+                "neighbourhood":[
+                    "Petite \u00cele",
+                    "Klein Eiland"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Anderlecht"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1070",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":96720041,
+                "osm_type":"way",
+                "osm_id":25423667,
+                "lat":"50.83303969924869",
+                "lon":"4.314896886864363",
+                "display_name":"Petite \u00cele - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "Petite \u00cele",
+                    "Klein Eiland"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Anderlecht"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1070",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            },
+            {
+                "place_id":96627419,
+                "osm_type":"way",
+                "osm_id":25423626,
+                "lat":"50.83311223880124",
+                "lon":"4.315216818055618",
+                "display_name":"Quai de Biestebroeck - Biestebroekkaai, Petite \u00cele - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Quai de Biestebroeck",
+                    "Biestebroekkaai"
+                ],
+                "neighbourhood":[
+                    "Petite \u00cele",
+                    "Klein Eiland"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Anderlecht"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1070",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":95314925,
+            "osm_type":"way",
+            "osm_id":25423595,
+            "lat":"50.83324295708655",
+            "lon":"4.31490831009844",
+            "display_name":"Rue de Biestebroeck - Biestebroekstraat, Petite \u00cele - Klein Eiland, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de Biestebroeck",
+                "Biestebroekstraat"
+            ],
+            "neighbourhood":[
+                "Petite \u00cele",
+                "Klein Eiland"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Anderlecht"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1070",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":2
+        }
+    },
+    {
+        "id":41,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":106989223,
+                "osm_type":"way",
+                "osm_id":1301501731,
+                "lat":"50.633157781376596",
+                "lon":"6.028076489548827",
+                "display_name":"Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kneippweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Eupen"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":7
+            },
+            {
+                "place_id":107399647,
+                "osm_type":"way",
+                "osm_id":1301493441,
+                "lat":"50.633329601641776",
+                "lon":"6.028215706494997",
+                "display_name":"Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "not specified"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Eupen"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4700",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            }
+        ],
+        "nearest_address":{
+            "place_id":106989223,
+            "osm_type":"way",
+            "osm_id":1301501731,
+            "lat":"50.633157781376596",
+            "lon":"6.028076489548827",
+            "display_name":"Kneippweg, Neo-Viertel | Eupener Rathausviertel, Eupen, Verviers, Li\u00e8ge, Wallonie, 4700, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Kneippweg"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Eupen"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4700",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":7
+        }
+    },
+    {
+        "id":42,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96291778,
+                "osm_type":"way",
+                "osm_id":24713428,
+                "lat":"50.731370209555486",
+                "lon":"4.229918125352849",
+                "display_name":"Wilgenveld, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Wilgenveld"
+                ],
+                "neighbourhood":[
+                    "Grote Weide"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Halle"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1500",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":5
+            },
+            {
+                "place_id":95084166,
+                "osm_type":"way",
+                "osm_id":221123684,
+                "lat":"50.731598766670814",
+                "lon":"4.2303173192440715",
+                "display_name":"Auguste Demaeghtlaan, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Auguste Demaeghtlaan"
+                ],
+                "neighbourhood":[
+                    "Grote Weide"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Halle"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1500",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":96291778,
+            "osm_type":"way",
+            "osm_id":24713428,
+            "lat":"50.731370209555486",
+            "lon":"4.229918125352849",
+            "display_name":"Wilgenveld, Grote Weide, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Wilgenveld"
+            ],
+            "neighbourhood":[
+                "Grote Weide"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Halle"
+            ],
+            "county":[
+                "Halle-Vilvoorde"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"1500",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":5
+        }
+    },
+    {
+        "id":44,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":96139209,
+                "osm_type":"way",
+                "osm_id":23113153,
+                "lat":"50.90864681240463",
+                "lon":"4.367866247230214",
+                "display_name":"Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Keelstraat"
+                ],
+                "neighbourhood":[
+                    "Het Voor"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Vilvoorde"
+                ],
+                "county":[
+                    "Halle-Vilvoorde"
+                ],
+                "state":"Vlaams-Brabant",
+                "postcode":"1800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":7
+            }
+        ],
+        "nearest_address":{
+            "place_id":96139209,
+            "osm_type":"way",
+            "osm_id":23113153,
+            "lat":"50.90864681240463",
+            "lon":"4.367866247230214",
+            "display_name":"Keelstraat, Het Voor, Vilvoorde, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Keelstraat"
+            ],
+            "neighbourhood":[
+                "Het Voor"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Vilvoorde"
+            ],
+            "county":[
+                "Halle-Vilvoorde"
+            ],
+            "state":"Vlaams-Brabant",
+            "postcode":"1800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":7
+        }
+    },
+    {
+        "id":45,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":91713241,
+                "osm_type":"way",
+                "osm_id":55178502,
+                "lat":"51.108468866516475",
+                "lon":"2.6140585006123227",
+                "display_name":"Smeyerslaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Smeyerslaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Koksijde"
+                ],
+                "county":[
+                    "Veurne"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8670",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":11
+            },
+            {
+                "place_id":91539670,
+                "osm_type":"way",
+                "osm_id":239456722,
+                "lat":"51.10804618017355",
+                "lon":"2.613883265482802",
+                "display_name":"Strandlaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Strandlaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Koksijde"
+                ],
+                "county":[
+                    "Veurne"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8670",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            }
+        ],
+        "nearest_address":{
+            "place_id":91713241,
+            "osm_type":"way",
+            "osm_id":55178502,
+            "lat":"51.108468866516475",
+            "lon":"2.6140585006123227",
+            "display_name":"Smeyerslaan, Sint-Idesbald, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Smeyerslaan"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Koksijde"
+            ],
+            "county":[
+                "Veurne"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8670",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":11
+        }
+    },
+    {
+        "id":46,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":91867792,
+                "osm_type":"way",
+                "osm_id":157165722,
+                "lat":"51.02212777379902",
+                "lon":"3.0450244750300657",
+                "display_name":"Hoogledestraat, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Hoogledestraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Kortemark"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Diksmuide"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8610",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            },
+            {
+                "place_id":92007329,
+                "osm_type":"way",
+                "osm_id":157050605,
+                "lat":"51.02268683388777",
+                "lon":"3.04513718072188",
+                "display_name":"Staatsbaan, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Staatsbaan"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Kortemark"
+                ],
+                "town":[
+                    "not specified"
+                ],
+                "county":[
+                    "Diksmuide"
+                ],
+                "state":"West-Vlaanderen",
+                "postcode":"8610",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            }
+        ],
+        "nearest_address":{
+            "place_id":91867792,
+            "osm_type":"way",
+            "osm_id":157165722,
+            "lat":"51.02212777379902",
+            "lon":"3.0450244750300657",
+            "display_name":"Hoogledestraat, Kortemark, Diksmuide, West-Vlaanderen, Vlaanderen, 8610, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Hoogledestraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Kortemark"
+            ],
+            "town":[
+                "not specified"
+            ],
+            "county":[
+                "Diksmuide"
+            ],
+            "state":"West-Vlaanderen",
+            "postcode":"8610",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":4
+        }
+    },
+    {
+        "id":47,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":391245093,
+                "osm_type":"way",
+                "osm_id":1064842122,
+                "lat":"50.4740822",
+                "lon":"4.2079809",
+                "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue de la Semeuse"
+                ],
+                "neighbourhood":[
+                    "Cit\u00e9 du Beau Site"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "La Louvi\u00e8re"
+                ],
+                "county":[
+                    "La Louvi\u00e8re"
+                ],
+                "state":"Hainaut",
+                "postcode":"7100",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":19
+            }
+        ],
+        "nearest_address":{
+            "place_id":391245093,
+            "osm_type":"way",
+            "osm_id":1064842122,
+            "lat":"50.4740822",
+            "lon":"4.2079809",
+            "display_name":"Rue de la Semeuse, Cit\u00e9 du Beau Site, Le Fond des Eaux, Haine-Saint-Paul, La Louvi\u00e8re, Hainaut, Wallonie, 7100, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue de la Semeuse"
+            ],
+            "neighbourhood":[
+                "Cit\u00e9 du Beau Site"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "La Louvi\u00e8re"
+            ],
+            "county":[
+                "La Louvi\u00e8re"
+            ],
+            "state":"Hainaut",
+            "postcode":"7100",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":19
+        }
+    },
+    {
+        "id":48,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":95573141,
+                "osm_type":"way",
+                "osm_id":1250519414,
+                "lat":"50.81485470738834",
+                "lon":"4.319645663714008",
+                "display_name":"Rue Louise De Hem - Louise De Hemstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Louise De Hem",
+                    "Louise De Hemstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Forest",
+                    "Vorst"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1190",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":11
+            },
+            {
+                "place_id":96805087,
+                "osm_type":"way",
+                "osm_id":40533901,
+                "lat":"50.81489565913913",
+                "lon":"4.318874903072091",
+                "display_name":"Rue Saint-Denis - Sint-Denijsstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Saint-Denis",
+                    "Sint-Denijsstraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Forest",
+                    "Vorst"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1190",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            },
+            {
+                "place_id":96408784,
+                "osm_type":"way",
+                "osm_id":816907244,
+                "lat":"50.81462599300734",
+                "lon":"4.3198053375435705",
+                "display_name":"Rue Henri Kichka - Henri Kichkastraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue Henri Kichka",
+                    "Henri Kichkastraat"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Forest",
+                    "Vorst"
+                ],
+                "county":[
+                    "Brussel-Hoofdstad",
+                    "Bruxelles-Capitale"
+                ],
+                "state":"not specified",
+                "postcode":"1190",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":4
+            }
+        ],
+        "nearest_address":{
+            "place_id":95573141,
+            "osm_type":"way",
+            "osm_id":1250519414,
+            "lat":"50.81485470738834",
+            "lon":"4.319645663714008",
+            "display_name":"Rue Louise De Hem - Louise De Hemstraat, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue Louise De Hem",
+                "Louise De Hemstraat"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Forest",
+                "Vorst"
+            ],
+            "county":[
+                "Brussel-Hoofdstad",
+                "Bruxelles-Capitale"
+            ],
+            "state":"not specified",
+            "postcode":"1190",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":11
+        }
+    },
+    {
+        "id":49,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":94780201,
+                "osm_type":"way",
+                "osm_id":44956946,
+                "lat":"50.59317044955817",
+                "lon":"5.8585323712303365",
+                "display_name":"Rue du Marteau, Lambermont-Bas, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Marteau"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Lambermont-Bas"
+                ],
+                "town":[
+                    "Verviers"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":94879223,
+                "osm_type":"way",
+                "osm_id":771689863,
+                "lat":"50.59332973403448",
+                "lon":"5.859382037954161",
+                "display_name":"Rue du Marteau, Lambermont-Bas, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Rue du Marteau"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Lambermont-Bas"
+                ],
+                "town":[
+                    "Verviers"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            },
+            {
+                "place_id":94942665,
+                "osm_type":"way",
+                "osm_id":158406336,
+                "lat":"50.59322564292993",
+                "lon":"5.859524874748981",
+                "display_name":"Pont Saint-Laurent, Lambermont-Bas, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Pont Saint-Laurent"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "Lambermont-Bas"
+                ],
+                "town":[
+                    "Verviers"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4800",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":1
+            }
+        ],
+        "nearest_address":{
+            "place_id":94780201,
+            "osm_type":"way",
+            "osm_id":44956946,
+            "lat":"50.59317044955817",
+            "lon":"5.8585323712303365",
+            "display_name":"Rue du Marteau, Lambermont-Bas, Verviers, Li\u00e8ge, Wallonie, 4800, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Rue du Marteau"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "Lambermont-Bas"
+            ],
+            "town":[
+                "Verviers"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4800",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":3
+        }
+    },
+    {
+        "id":50,
+        "timestamp":1740133916,
+        "all_addresses":[
+            {
+                "place_id":107403615,
+                "osm_type":"way",
+                "osm_id":24844256,
+                "lat":"50.718915790449635",
+                "lon":"6.0139166691559645",
+                "display_name":"Kahnweg, Kelmis, Kelmis - La Calamine, Verviers, Li\u00e8ge, Wallonie, 4720, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Kahnweg"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kelmis",
+                    "La Calamine"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4720",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":3
+            },
+            {
+                "place_id":107015629,
+                "osm_type":"way",
+                "osm_id":24821079,
+                "lat":"50.718849995726",
+                "lon":"6.013588179196598",
+                "display_name":"Patronagestra\u00dfe, Kelmis, Kelmis - La Calamine, Verviers, Li\u00e8ge, Wallonie, 4720, Belgi\u00eb \/ Belgique \/ Belgien",
+                "road":[
+                    "Patronagestra\u00dfe"
+                ],
+                "neighbourhood":[
+                    "not specified"
+                ],
+                "village":[
+                    "not specified"
+                ],
+                "town":[
+                    "Kelmis",
+                    "La Calamine"
+                ],
+                "county":[
+                    "Verviers"
+                ],
+                "state":"Li\u00e8ge",
+                "postcode":"4720",
+                "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+                "country_code":"be",
+                "Vertices":2
+            }
+        ],
+        "nearest_address":{
+            "place_id":107403615,
+            "osm_type":"way",
+            "osm_id":24844256,
+            "lat":"50.718915790449635",
+            "lon":"6.0139166691559645",
+            "display_name":"Kahnweg, Kelmis, Kelmis - La Calamine, Verviers, Li\u00e8ge, Wallonie, 4720, Belgi\u00eb \/ Belgique \/ Belgien",
+            "road":[
+                "Kahnweg"
+            ],
+            "neighbourhood":[
+                "not specified"
+            ],
+            "village":[
+                "not specified"
+            ],
+            "town":[
+                "Kelmis",
+                "La Calamine"
+            ],
+            "county":[
+                "Verviers"
+            ],
+            "state":"Li\u00e8ge",
+            "postcode":"4720",
+            "country":"Belgi\u00eb \/ Belgique \/ Belgien",
+            "country_code":"be",
+            "Vertices":3
+        }
+    }
+]
