@@ -1,0 +1,37 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Appartement te koop in Schaluinveld 12 4 3290 Diest",
+        "htmlTitle": "Appartement te koop in <b>Schaluinveld</b> 12 4 <b>3290</b> Diest",
+        "link": "https://www.immoscoop.be/te-koop/3290-diest/696614",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Nieuwbouw? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.32 %. Totale kredietbedrag. 494.100,00 EUR. Totale kredietlast. 663.950,38 EUR. Liever een voorstel\u00a0...",
+        "htmlSnippet": "<b>Nieuwbouw</b>? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.32 %. Totale kredietbedrag. 494.100,00 EUR. Totale kredietlast. 663.950,38 EUR. Liever een voorstel&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/3290-diest/696614",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>3290</b>-diest/696614",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzXmGoNMm1G3RkD1bzJZY144ncPenY6W35AtDekRQ4Vsr-idSH-r7Cdw&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-d7d44fb33cda16d6c59fd3110b09c6c7.jpg",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Appartement te koop in Diest - \u20ac 549.000",
+                    "og:description": "Appartement te koop in Diest met 3 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-d7d44fb33cda16d6c59fd3110b09c6c7.jpg"
+                }
+            ]
+        }
+    }
+]

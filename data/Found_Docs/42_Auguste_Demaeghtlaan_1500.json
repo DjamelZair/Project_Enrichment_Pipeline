@@ -1,0 +1,15 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Untitled",
+        "htmlTitle": "Untitled",
+        "link": "https://elections.fgov.be/sites/2024.elections.fgov.be/files/inline-files/Web_VoteOfficebureaus--20240506-1036.xlsx",
+        "displayLink": "elections.fgov.be",
+        "snippet": "May 6, 2024 ... ... 1500, Halle. 2323, Halle, cc 't Vondel, Halle, 2, J. Possozplein 40, 1500, Halle. 2324, Halle, Centrum Van Koekenbeek, Halle, 3, Auguste\u00a0...",
+        "htmlSnippet": "May 6, 2024 <b>...</b> ... <b>1500</b>, Halle. 2323, Halle, cc &#39;t Vondel, Halle, 2, J. Possozplein 40, <b>1500</b>, Halle. 2324, Halle, Centrum Van Koekenbeek, Halle, 3, <b>Auguste</b>&nbsp;...",
+        "formattedUrl": "https://elections.fgov.be/.../Web_VoteOfficebureaus--20240506-1036.xlsx",
+        "htmlFormattedUrl": "https://elections.fgov.be/.../Web_VoteOfficebureaus--20240506-1036.xlsx",
+        "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "fileFormat": "Microsoft Excel"
+    }
+]

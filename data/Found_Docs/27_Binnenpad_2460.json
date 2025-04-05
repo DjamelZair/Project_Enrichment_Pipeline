@@ -1,0 +1,39 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Vroegmiddeleeuwse huispla egronden aan het Binnenpad",
+        "htmlTitle": "Vroegmiddeleeuwse huispla  egronden aan het <b>Binnenpad</b>",
+        "link": "https://oar.onroerenderfgoed.be/publicaties/ROEV/4090/ROEV4090-001.pdf",
+        "displayLink": "oar.onroerenderfgoed.be",
+        "snippet": "Markt 1, BE2460. Kasterlee. Contact: Mevrouw ... Potvliege, J., 2013: Technisch verslag Nieuwbouw thv Binnenpad \u2013 Karekietstraat te Kasterlee, Zelzate.",
+        "htmlSnippet": "Markt 1, <b>BE2460</b>. Kasterlee. Contact: Mevrouw ... Potvliege, J., 2013: Technisch verslag <b>Nieuwbouw</b> thv <b>Binnenpad</b> \u2013 Karekietstraat te Kasterlee, Zelzate.",
+        "formattedUrl": "https://oar.onroerenderfgoed.be/publicaties/ROEV/.../ROEV4090-001.pdf",
+        "htmlFormattedUrl": "https://oar.onroerenderfgoed.be/publicaties/ROEV/.../ROEV4090-001.pdf",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCI_jMriH1u8PBZ0P-tcCwCydqLqqqaFAF1-7FSYbrIRgHcVXvGFMZnIc&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "moddate": "D:20210803132151+02'00'",
+                    "creationdate": "D:20190409103635+02'00'",
+                    "creator": "PScript5.dll Version 5.2.2",
+                    "author": "jpasv",
+                    "producer": "Acrobat Distiller 19.0 (Windows)",
+                    "title": "Microsoft Word - Kasterlee_binnenpad_V4 DTP_laatste versie.docx"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "x-raw-image:///e26c1ae30d81ee9bbb3dc65a83d8dab349fb842d7beeaea600f2ad98a528ac88"
+                }
+            ]
+        },
+        "mime": "application/pdf",
+        "fileFormat": "PDF/Adobe Acrobat"
+    }
+]

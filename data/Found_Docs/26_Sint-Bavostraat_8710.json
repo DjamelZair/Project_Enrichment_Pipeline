@@ -1,0 +1,38 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Appartement te koop in Sint-Bavostraat 1 2.1 8710 Sint-Baafs-Vijve",
+        "htmlTitle": "Appartement te koop in <b>Sint-Bavostraat</b> 1 2.1 <b>8710</b> Sint-Baafs-Vijve",
+        "link": "https://www.immoscoop.be/te-koop/8710-sint-baafs-vijve/705301",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Nieuwbouw? Ja Nee. Rentevoet. 3,16 %. met KBC tarief. JKP. 3.39 %. Totale kredietbedrag. 296.100,00 EUR. Totale kredietlast. 398.229,22 EUR. Liever een voorstel\u00a0...",
+        "htmlSnippet": "<b>Nieuwbouw</b>? Ja Nee. Rentevoet. 3,16 %. met KBC tarief. JKP. 3.39 %. Totale kredietbedrag. 296.100,00 EUR. Totale kredietlast. 398.229,22 EUR. Liever een voorstel&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/8710-sint-baafs-vijve/705301",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>8710</b>-sint-baafs-vijve/705301",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfQ3IUuo-UeuZZymaSD5AFQISLEGOmyiavAVIqos01SQDhbamB_fExcQz&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-11b3b21afe6bb3959ee6524d75046fb2.jpg",
+                    "next-head-count": "15",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Appartement te koop in Sint-Baafs-Vijve - \u20ac 329.000",
+                    "og:description": "Appartement te koop in Sint-Baafs-Vijve met 2 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-f984027d936f1d26fba918e7a8f29eae-w768.jpeg"
+                }
+            ]
+        }
+    }
+]

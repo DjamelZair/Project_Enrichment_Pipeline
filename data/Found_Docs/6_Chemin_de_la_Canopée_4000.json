@@ -1,0 +1,38 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Plan Canop\u00e9e \u2014 Li\u00e8ge",
+        "htmlTitle": "Plan Canop\u00e9e \u2014 Li\u00e8ge",
+        "link": "https://canopee.liege.be/",
+        "displayLink": "canopee.liege.be",
+        "snippet": "1. Contexte : Anticiper les cons\u00e9quences du changement climatique \u00b7 2. Objectif : Planter des milliers d'arbres en ville pour faire de Li\u00e8ge une ville plus\u00a0...",
+        "htmlSnippet": "1. Contexte : Anticiper les cons\u00e9quences du changement climatique &middot; 2. Objectif : Planter des milliers d&#39;arbres en ville pour faire de Li\u00e8ge une ville plus&nbsp;...",
+        "formattedUrl": "https://canopee.liege.be/",
+        "htmlFormattedUrl": "https://canopee.liege.be/",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfyB8OSyqZzexwkLULweE5SW_PnlfSVVu6zbm6EC3CSCzY5sbCaqVJpEw&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "dc.type": "Dossier",
+                    "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0",
+                    "dc.format": "text/plain",
+                    "dc.date.valid_range": "2020/12/09 -",
+                    "dc.date.modified": "2024-07-09T15:06:58+01:00",
+                    "dc.date.created": "2020-12-09T14:21:14+01:00",
+                    "dc.language": "fr"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://canopee.liege.be/actualites-canopee/la-ville-de-liege-active-son-plan-canopee/@@images/f033353d-25e4-4e85-b430-1ed0d243dc98.png"
+                }
+            ]
+        }
+    }
+]

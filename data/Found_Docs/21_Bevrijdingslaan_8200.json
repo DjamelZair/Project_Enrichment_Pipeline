@@ -1,0 +1,39 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Bestrijding en voorkoming van leegstand en verwaarlozing van ...",
+        "htmlTitle": "Bestrijding en voorkoming van leegstand en verwaarlozing van ...",
+        "link": "https://omgeving.vlaanderen.be/sites/default/files/2022-09/leegstand-dossiers-overzicht.pdf",
+        "displayLink": "omgeving.vlaanderen.be",
+        "snippet": "Jan 8, 2024 ... 8200 SINT-MICHIELS. Leegstand en Verwaarlozing. 2023/31005/0592 ... Bevrijdingslaan 49+. 2450 MEERHOUT. Leegstand. 2023/13021/0037.",
+        "htmlSnippet": "Jan 8, 2024 <b>...</b> <b>8200</b> SINT-MICHIELS. Leegstand en Verwaarlozing. 2023/31005/0592 ... <b>Bevrijdingslaan</b> 49+. 2450 MEERHOUT. Leegstand. 2023/13021/0037.",
+        "formattedUrl": "https://omgeving.vlaanderen.be/sites/...09/leegstand-dossiers-overzicht.pdf",
+        "htmlFormattedUrl": "https://omgeving.vlaanderen.be/sites/...09/leegstand-dossiers-overzicht.pdf",
+        "pagemap": {
+            "metatags": [
+                {
+                    "moddate": "D:20240109100227+01'00'",
+                    "creationdate": "D:20240109090103Z",
+                    "creator": "Microsoft Word",
+                    "author": "Buytaert, Nick",
+                    "producer": "Acrobat PDFMaker 15 for Word"
+                }
+            ]
+        },
+        "mime": "application/pdf",
+        "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "https://www.openingsuren.vlaanderen/includes/sitemap/xml ...",
+        "htmlTitle": "https://www.openingsuren.vlaanderen/includes/sitemap/xml ...",
+        "link": "https://www.openingsuren.vlaanderen/includes/sitemap/xml/sitemap_schrijnwerkers.xml",
+        "displayLink": "www.openingsuren.vlaanderen",
+        "snippet": "... nieuwbouw/2400-mol/nijverheidsstraat-17</loc> </url> <url> <loc>https://www ... bevrijdingslaan-118</loc> </url> <url> <loc>https://www.openingsuren\u00a0...",
+        "htmlSnippet": "... <b>nieuwbouw</b>/2400-mol/nijverheidsstraat-17&lt;/loc&gt; &lt;/url&gt; &lt;url&gt; &lt;loc&gt;https://www ... <b>bevrijdingslaan</b>-118&lt;/loc&gt; &lt;/url&gt; &lt;url&gt; &lt;loc&gt;https://www.openingsuren&nbsp;...",
+        "formattedUrl": "https://www.openingsuren.vlaanderen/includes/.../sitemap_schrijnwerkers.x...",
+        "htmlFormattedUrl": "https://www.openingsuren.vlaanderen/includes/.../sitemap_schrijnwerkers.x...",
+        "mime": "text/xml",
+        "fileFormat": "text/xml"
+    }
+]

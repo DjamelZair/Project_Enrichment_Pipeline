@@ -1,0 +1,39 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Biens \u00e0 vendre ou \u00e0 louer \u00e0 Avenue Franz Guillaume ...",
+        "htmlTitle": "Biens \u00e0 vendre ou \u00e0 louer \u00e0 Avenue Franz Guillaume ...",
+        "link": "https://www.realo.be/fr/search/evere-1140/avenue-franz-guillaume",
+        "displayLink": "www.realo.be",
+        "snippet": "Immobilier \u00e0 Avenue Franz Guillaume, Communautes, Evere (1140). Recommand\u00e9 ... Franz guillaumelaan 27, 1140 Evere. 2 jours. 310 000 \u20ac. Appartement \u00e0 vendre.",
+        "htmlSnippet": "<b>Immobilier</b> \u00e0 Avenue Franz Guillaume, Communautes, Evere (<b>1140</b>). Recommand\u00e9 ... <b>Franz guillaumelaan</b> 27, <b>1140</b> Evere. 2 jours. 310 000 \u20ac. Appartement \u00e0 vendre.",
+        "formattedUrl": "https://www.realo.be/fr/search/evere-1140/avenue-franz-guillaume",
+        "htmlFormattedUrl": "https://www.realo.be/fr/search/evere-<b>1140</b>/avenue-franz-guillaume",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zaooymSH4TBnVOA4NLJHld2SkQkbpgBjdrrcYXAA4ZITYYkUSrZiqvNn&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "msapplication-tilecolor": "#2d89ef",
+                    "apple-itunes-app": "app-id=989869187",
+                    "copyright": "Copyright (c) 2025 Realo N.V.",
+                    "theme-color": "#3479ef",
+                    "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                    "author": "Realo N.V.",
+                    "msapplication-tileimage": "/mstile-144x144.png",
+                    "google-play-app": "app-id=com.realo.app"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://realocdn.com/image/5/BE-master_listing_e0e8ba_e0e8ba70e3ab3197c83de57403de1adf.jpg/736x477/490x326/0/ef29"
+                }
+            ]
+        }
+    }
+]

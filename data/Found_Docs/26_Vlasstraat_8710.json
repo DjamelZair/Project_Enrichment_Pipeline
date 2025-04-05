@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Lysair, industrial air solutions",
+        "htmlTitle": "Lysair, industrial air solutions",
+        "link": "https://www.lysair.com/nl",
+        "displayLink": "www.lysair.com",
+        "snippet": "Vlasstraat 13. B-8710 Sint-Baafs-Vijve. Belgi\u00eb. +32 56 60 58 84. +32 56 60 53 98. info@lysair.com. Home \u00b7 Oplossingen \u00b7 Realisaties \u00b7 Nieuws \u00b7 Vacatures\u00a0...",
+        "htmlSnippet": "<b>Vlasstraat</b> 13. B-<b>8710</b> Sint-Baafs-Vijve. Belgi\u00eb. +32 56 60 58 84. +32 56 60 53 98. info@lysair.com. Home &middot; Oplossingen &middot; Realisaties &middot; Nieuws &middot; Vacatures&nbsp;...",
+        "formattedUrl": "https://www.lysair.com/nl",
+        "htmlFormattedUrl": "https://www.lysair.com/nl",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUY8coX0vZSZY-WKooVVGAlP0YONtD8uyh3uKgUx6LuqvJ9HkQctrI71c&s",
+                    "width": "343",
+                    "height": "147"
+                }
+            ],
+            "metatags": [
+                {
+                    "msapplication-tilecolor": "#ffffff",
+                    "application-name": "Lysair",
+                    "msapplication-config": "https://shuttle-storage.s3.amazonaws.com/lylysairevo02/system/favicon/browserconfig.xml?1608658915&v=d1f2259419",
+                    "og:type": "website",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Lysair",
+                    "viewport": "width=device-width, initial-scale=1, minimal-ui",
+                    "apple-mobile-web-app-title": "Lysair",
+                    "og:url": "https://www.lysair.com/nl"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://shuttle-storage.s3.amazonaws.com/lylysairevo02/Essentials/LogoLysair.svg?1590672979"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Referentielijst_aanvullingen .xlsx",
+        "htmlTitle": "Referentielijst_aanvullingen .xlsx",
+        "link": "https://facades-forever.be/wp-content/uploads/2019/06/REFERENTIELIJST-2.pdf",
+        "displayLink": "facades-forever.be",
+        "snippet": "8710. WIELSBEKE. EPS + CREPI. RAL 7032. GRIJSTINT. CAPAROL. DEEL WONING. BAMSTRAAT. 7 ... DEEL NIEUWBOUW. VLEDERMUISSTRAAT. 70A. 9032. WONDELGEM. CREPI. CHINA\u00a0...",
+        "htmlSnippet": "<b>8710</b>. WIELSBEKE. EPS + CREPI. RAL 7032. GRIJSTINT. CAPAROL. DEEL WONING. BAMSTRAAT. 7 ... DEEL <b>NIEUWBOUW</b>. VLEDERMUISSTRAAT. 70A. 9032. WONDELGEM. CREPI. CHINA&nbsp;...",
+        "formattedUrl": "https://facades-forever.be/wp-content/uploads/.../REFERENTIELIJST-2.pdf",
+        "htmlFormattedUrl": "https://facades-forever.be/wp-content/uploads/.../REFERENTIELIJST-2.pdf",
+        "pagemap": {
+            "metatags": [
+                {
+                    "moddate": "D:20190709111532Z00'00'",
+                    "creationdate": "D:20190709111532Z00'00'",
+                    "creator": "Excel",
+                    "author": "Emmeline",
+                    "producer": "GPL Ghostscript 9.26",
+                    "title": "Referentielijst_aanvullingen .xlsx"
+                }
+            ]
+        },
+        "mime": "application/pdf",
+        "fileFormat": "PDF/Adobe Acrobat"
+    }
+]

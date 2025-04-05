@@ -1,0 +1,38 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Appartement te koop in Kruindersweg 37 /1 3630 Maasmechelen",
+        "htmlTitle": "Appartement te koop in <b>Kruindersweg</b> 37 /1 <b>3630</b> Maasmechelen",
+        "link": "https://www.immoscoop.be/te-koop/3630-maasmechelen/746435",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Nieuwbouw? Ja Nee. Rentevoet. 3,22 %. met KBC tarief. JKP. 3.52 %. Totale kredietbedrag. 202.500,00 EUR. Totale kredietlast. 273.786,33 EUR. Liever een voorstel\u00a0...",
+        "htmlSnippet": "<b>Nieuwbouw</b>? Ja Nee. Rentevoet. 3,22 %. met KBC tarief. JKP. 3.52 %. Totale kredietbedrag. 202.500,00 EUR. Totale kredietlast. 273.786,33 EUR. Liever een voorstel&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/3630-maasmechelen/746435",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>3630</b>-maasmechelen/746435",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDqnTXxUmwvRWrYBlEqo9UmTX0DsB94E_kEXY2Me8uspxABgIN4xGL3Vo&s=0",
+                    "width": "150",
+                    "height": "140"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-8d150838a07ea93c9f29e60e3f2f3188.jpg",
+                    "next-head-count": "15",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Appartement te koop in Maasmechelen - \u20ac 225.000",
+                    "og:description": "Appartement te koop in Maasmechelen met 2 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-8d150838a07ea93c9f29e60e3f2f3188.jpg"
+                }
+            ]
+        }
+    }
+]

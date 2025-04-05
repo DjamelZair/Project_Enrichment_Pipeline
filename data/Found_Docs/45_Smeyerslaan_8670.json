@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Huis te koop in Smeyerslaan 8 Koksijde",
+        "htmlTitle": "Huis te koop in <b>Smeyerslaan</b> 8 Koksijde",
+        "link": "https://www.immoscoop.be/te-koop/8670-koksijde/747782",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Smeyerslaan 8, 8670 Koksijde. Huis te koop in Koksijde met 6 slaapkamers. Ook ... Nieuwbouw? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.31 %. Totale\u00a0...",
+        "htmlSnippet": "<b>Smeyerslaan</b> 8, <b>8670</b> Koksijde. Huis te koop in Koksijde met 6 slaapkamers. Ook ... <b>Nieuwbouw</b>? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.31 %. Totale&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/8670-koksijde/747782",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>8670</b>-koksijde/747782",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPzV2Ygwhj54fwqxxXW0mRBYxPxG6NBOrI_p-2nMMTHZ8otIaRi2fapsf&s",
+                    "width": "259",
+                    "height": "194"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-e0651d64314e6fce5f68b27a0155bcfe.jpg",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Huis te koop in Koksijde - \u20ac 719.000",
+                    "og:description": "Huis te koop in Koksijde met 6 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-e0651d64314e6fce5f68b27a0155bcfe.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Huis te koop in Petuniaslaan 21 Koksijde",
+        "htmlTitle": "Huis te koop in Petuniaslaan 21 Koksijde",
+        "link": "https://www.immoscoop.be/te-koop/8670-koksijde/660323",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Heb je vragen of wil je graag een bezoek inplannen? Contacteer de makelaar. Century 21 TackoenStrandlaan 337, 8670 Sint-Idesbald /\u00a0...",
+        "htmlSnippet": "Heb je vragen of wil je graag een bezoek inplannen? Contacteer de makelaar. Century 21 TackoenStrandlaan 337, <b>8670</b> Sint-Idesbald /&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/8670-koksijde/660323",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>8670</b>-koksijde/660323",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGCPGRh4k5Tqbg2OmN7EdzbsMai8fwBXtY5AwIl3-peK2LDyj-NeCxU4&s",
+                    "width": "259",
+                    "height": "194"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-c001981d5ff760b2817e17cbea6c8ccc.jpg",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Huis te koop in Koksijde - \u20ac 725.000",
+                    "og:description": "Huis te koop in Koksijde met 4 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-c001981d5ff760b2817e17cbea6c8ccc.jpg"
+                }
+            ]
+        }
+    }
+]

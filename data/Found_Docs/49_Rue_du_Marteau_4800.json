@@ -1,0 +1,27 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "notaire.be | impression des r\u00e9sultats",
+        "htmlTitle": "notaire.be | impression des r\u00e9sultats",
+        "link": "https://immo.notaris.be/fr/printpage?++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++page=11&page=15",
+        "displayLink": "immo.notaris.be",
+        "snippet": "Le projet est propos\u00e9 \u00e0 la vente en \u00e9tat de gros-\u0153uvre ferm\u00e9. Composition du bien : Rez-de-chauss\u00e9e : Hall d'entr\u00e9e, WC, local technique/buanderie, s\u00e9jour\u00a0...",
+        "htmlSnippet": "Le <b>projet</b> est propos\u00e9 \u00e0 la vente en \u00e9tat de gros-\u0153uvre ferm\u00e9. Composition du bien : Rez-de-chauss\u00e9e : Hall d&#39;entr\u00e9e, WC, local technique/buanderie, s\u00e9jour&nbsp;...",
+        "formattedUrl": "https://immo.notaris.be/.../printpage?++++++++++++++++++++++++++++++...",
+        "htmlFormattedUrl": "https://immo.notaris.be/.../printpage?++++++++++++++++++++++++++++++...",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvn5zZyLHVI6yrJDESzsd72mAX3jt2YhJ6_7u_FuZp3CRbCscuLQAgGq6&s",
+                    "width": "259",
+                    "height": "194"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://immo.notaire.be/immoplatform-public-service_v1/api/images/124719/277913/2380188__THUMB.jpg"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Ouvrir un compte bancaire en ligne | Cr\u00e9dit Mutuel de Bretagne",
+        "htmlTitle": "Ouvrir un compte bancaire en ligne | Cr\u00e9dit Mutuel de Bretagne",
+        "link": "https://www.cmb.fr/reseau-bancaire-cooperatif/web/hc_50042/note-conditions-applicables-jusqu-au-offres-de-bienvenue-pret-bienvenue",
+        "displayLink": "www.cmb.fr",
+        "snippet": "1 compte + 1 carte + votre conseiller en r\u00e9gion : Changez de banque, b\u00e9n\u00e9ficiez de nos offres de bienvenue et d'un accompagnement personnalis\u00e9 pour vos projets\u00a0...",
+        "htmlSnippet": "1 compte + 1 carte + votre conseiller en r\u00e9gion : Changez de banque, b\u00e9n\u00e9ficiez de nos offres de bienvenue et d&#39;un accompagnement personnalis\u00e9 pour vos projets&nbsp;...",
+        "formattedUrl": "https://www.cmb.fr/.../note-conditions-applicables-jusqu-au-offres-de-bienv...",
+        "htmlFormattedUrl": "https://www.cmb.fr/.../note-conditions-applicables-jusqu-au-offres-de-bienv...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                    "og:title": "Ouvrir un compte bancaire en ligne",
+                    "og:locale": "fr_FR",
+                    "og:url": "https://www.cmb.fr/reseau-bancaire-cooperatif/web/hc_50042/note-conditions-applicables-jusqu-au-offres-de-bienvenue-pret-bienvenue",
+                    "og:description": "D\u00e9couvrez notre service d'ouverture de compte bancaire 100% en ligne en 3 \u00e9tapes ! Rapide et s\u00e9curis\u00e9, ouvrez votre compte et en toute simplicit\u00e9 !"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Ouvrir un compte bancaire en ligne | Cr\u00e9dit Mutuel du Sud-Ouest",
+        "htmlTitle": "Ouvrir un compte bancaire en ligne | Cr\u00e9dit Mutuel du Sud-Ouest",
+        "link": "https://www.cmso.com/reseau-bancaire-cooperatif/web/devenir-client-3",
+        "displayLink": "www.cmso.com",
+        "snippet": "1 compte + 1 carte + votre conseiller en r\u00e9gion : Changez de banque, b\u00e9n\u00e9ficiez de nos offres de bienvenue et d'un accompagnement personnalis\u00e9 pour vos projets\u00a0...",
+        "htmlSnippet": "1 compte + 1 carte + votre conseiller en r\u00e9gion : Changez de banque, b\u00e9n\u00e9ficiez de nos offres de bienvenue et d&#39;un accompagnement personnalis\u00e9 pour vos projets&nbsp;...",
+        "formattedUrl": "https://www.cmso.com/reseau-bancaire-cooperatif/web/devenir-client-3",
+        "htmlFormattedUrl": "https://www.cmso.com/reseau-bancaire-cooperatif/web/devenir-client-3",
+        "pagemap": {
+            "metatags": [
+                {
+                    "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                    "og:title": "Ouvrir un compte bancaire en ligne",
+                    "og:locale": "fr_FR",
+                    "og:url": "https://www.cmso.com/reseau-bancaire-cooperatif/web/devenir-client-3",
+                    "og:description": "D\u00e9couvrez notre service d'ouverture de compte bancaire 100% en ligne en 3 \u00e9tapes ! Rapide et s\u00e9curis\u00e9, ouvrez votre compte et en toute simplicit\u00e9 !"
+                }
+            ]
+        }
+    }
+]

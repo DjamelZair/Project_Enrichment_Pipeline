@@ -1,0 +1,37 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Huis te koop in Hugo Verrieststraat 14 8800 Roeselare",
+        "htmlTitle": "Huis te koop in <b>Hugo Verrieststraat</b> 14 <b>8800</b> Roeselare",
+        "link": "https://www.immoscoop.be/te-koop/8800-roeselare/753181",
+        "displayLink": "www.immoscoop.be",
+        "snippet": "Nieuwbouw? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.41 %. Totale kredietbedrag. 251.100,00 EUR. Totale kredietlast. 337.417,04 EUR. Liever een voorstel\u00a0...",
+        "htmlSnippet": "<b>Nieuwbouw</b>? Ja Nee. Rentevoet. 3,15 %. met KBC tarief. JKP. 3.41 %. Totale kredietbedrag. 251.100,00 EUR. Totale kredietlast. 337.417,04 EUR. Liever een voorstel&nbsp;...",
+        "formattedUrl": "https://www.immoscoop.be/te-koop/8800-roeselare/753181",
+        "htmlFormattedUrl": "https://www.immoscoop.be/te-koop/<b>8800</b>-roeselare/753181",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIAghPtQfrn8WWZW-cZPjRxpUtOslfvd51ZFfNxkZm5yzaXKXDs9suVhn&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://images.immoscoop.be/cp-14c1558797147ff82bb9c1cbc84fe023.jpg",
+                    "fb:app_id": "647284476386222",
+                    "viewport": "width=device-width",
+                    "og:title": "Huis te koop in Roeselare - \u20ac 279.000",
+                    "og:description": "Huis te koop in Roeselare met 4 slaapkamers",
+                    "pathname": "/property-detail/[...slug]"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://images.immoscoop.be/cp-5856e18806b477df0f550e717436409f-w768.jpeg"
+                }
+            ]
+        }
+    }
+]

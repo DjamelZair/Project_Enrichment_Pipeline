@@ -1,0 +1,48 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Ancien atelier de Louise de Hem \u2013 Inventaire du patrimoine ...",
+        "htmlTitle": "Ancien atelier de Louise de Hem \u2013 Inventaire du patrimoine ...",
+        "link": "https://monument.heritage.brussels/fr/buildings/36773",
+        "displayLink": "monument.heritage.brussels",
+        "snippet": "maison et atelier d'artiste, Louise DE HEM peintre, Ernest BLEROT architecte, Ernest BLEROT architecte.",
+        "htmlSnippet": "maison et atelier d&#39;artiste, Louise DE HEM peintre, Ernest BLEROT architecte, Ernest BLEROT architecte.",
+        "formattedUrl": "https://monument.heritage.brussels/fr/buildings/36773",
+        "htmlFormattedUrl": "https://monument.heritage.brussels/fr/buildings/36773",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxNftAEBwH0Jb_J65I9iB2D-t9jhLO3dh5q6onExjK_8N8NFVKsbG9ps1&s",
+                    "width": "230",
+                    "height": "219"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://monument.heritage.brussels/medias/500/buildings/11900052/11900052_0015_P01.jpg",
+                    "og:type": "Place",
+                    "og:image:url": "https://monument.heritage.brussels/medias/500/buildings/11900052/11900052_0015_P01.jpg",
+                    "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+                    "og:title": "Ancien atelier de Louise de Hem \u2013 Inventaire du patrimoine architectural",
+                    "dc.title": "Ancien atelier de Louise de Hem \u2013 Inventaire du patrimoine architectural",
+                    "og:locale": "fr_FR",
+                    "og:image:height": "500",
+                    "og:description": "maison et atelier d\u2019artiste, Louise DE HEM <span class='art-field'>peintre</span>, Ernest BLEROT <span class='art-field'>architecte</span>, Ernest BLEROT <span class='art-field'>architecte</span>"
+                }
+            ],
+            "imagegallery": [
+                {
+                    "contenturl": "https://monument.heritage.brussels/medias/buildings/11900052/11900052_0015_P01.jpg",
+                    "associatedmedia": "Rue Darwin 15, 17, 2016",
+                    "caption": "Rue Darwin 15, 17, 2016",
+                    "description": "Rue Darwin 15, 17, 2016"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://monument.heritage.brussels/medias/500/buildings/11900052/11900052_0015_P01.jpg"
+                }
+            ]
+        }
+    }
+]
