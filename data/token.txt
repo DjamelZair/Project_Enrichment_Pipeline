@@ -1,2 +1,2 @@
-tokenID: ID of your token here
-Mistral API KEY: your token here
+tokenID: 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
+Mistral API KEY: RcRay8VqwurNctCtlPPrGfjKyU1DNvAI
