@@ -122,4 +122,4 @@ Licensed by KR&A
 
 ## Additional Notes
 
-Make sure to create a `.env` file with the needed API keys.
+Make sure to add needed API keys in thw .env file in the keys folder.
