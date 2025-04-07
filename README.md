@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Configuration & API Keys
 
-This project requires various API keys for accessing OpenAI models and conducting searches. Store all keys in a `.env` file located in the root directory of the project.
+This project requires various API keys for accessing OpenAI models and conducting searches. Store all keys in a `.env` file located in the root directory of the project (or in the keys folder, adjust pathway to keys in the code accordingly).
 
 Required Keys:
 
@@ -56,7 +56,6 @@ GOOGLE_API_KEY=your_google_key
 GOOGLE_CX_ID=your_google_cx_id
 ```
 
-Make sure your `.env` file is listed in `.gitignore` to keep it private.
 
 ---
 
