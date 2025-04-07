@@ -9,7 +9,7 @@ This project requires a Python environment with specific dependencies. We recomm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Project_Enrichment_Pipeline.git
+git clone https://github.com/DjamelZair/Project_Enrichment_Pipeline.git
 cd Project_Enrichment_Pipeline
 ```
 
